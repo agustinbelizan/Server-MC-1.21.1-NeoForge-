@@ -25,8 +25,8 @@ hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
 metafile = true
 
 [[files]]
-file = "mods/apple-skins.pw.toml"
-hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
