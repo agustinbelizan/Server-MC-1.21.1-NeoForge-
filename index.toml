@@ -6,8 +6,8 @@ hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
 
 [[files]]
-file = "mods/WI-Zoom-1.7-MC1.21.1.jar"
-hash = "c6748e92f87f8b0521e604fa9de8e7d938c7866efb2de734fa441aa0ca12da87"
+file = "mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar"
+hash = "e603af2004d71bcb0b42e339c9297fd164219c608c02d32d76a1ac5988473d5f"
 
 [[files]]
 file = "mods/alexs-caves-(unofficial-port).pw.toml"
@@ -30,9 +30,8 @@ hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
 metafile = true
 
 [[files]]
-file = "mods/back-to-greece.pw.toml"
-hash = "ddb56aa6b6e8549f21361aa73beec864ee3bc456d2f6e829c1c0b380de999080"
-metafile = true
+file = "mods/backtogreece-0.4-1.21-1.21.1.jar"
+hash = "d0eb4f1094a819b38cd43036cde24a37ca2f3652079c037647864c2610b39f03"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -455,13 +454,8 @@ hash = "92eefd4353c9b4de808949cf057be8f6f61d18d73ce8691300bda6d5b7f8551a"
 metafile = true
 
 [[files]]
-file = "mods/physics item drop fabric 1.21.1-1.0.0.jar"
-hash = "fdec8d0818f63c06aa6551d694047a7304265c99460fd1565ed4566f0e0f421f"
-
-[[files]]
-file = "mods/platform.pw.toml"
-hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
-metafile = true
+file = "mods/physics item drop neoforge-1.21.1-1.0.0.jar"
+hash = "814204cf01e4c8b1eabae6bc7f58c6b8a657a335faad38ac3318c42838b4128b"
 
 [[files]]
 file = "mods/prickle.pw.toml"
@@ -547,6 +541,10 @@ metafile = true
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "79bb625f51bf7229d38bb5e833cdc49105ccb3dc86ac7f69d12e0bd62fb883a9"
 metafile = true
+
+[[files]]
+file = "mods/simple-hud-enhanced+1.21.1-4.7.5.1.jar"
+hash = "10170394fea3f5024ad295b443530ae9788aebb77d1ed3550597c2a3187027b8"
 
 [[files]]
 file = "mods/simple-hud-enhanced-neoforge.pw.toml"
