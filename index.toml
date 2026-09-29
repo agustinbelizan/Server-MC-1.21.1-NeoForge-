@@ -6,6 +6,10 @@ hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
 
 [[files]]
+file = "mods/WI-Zoom-1.7-MC1.21.1.jar"
+hash = "c6748e92f87f8b0521e604fa9de8e7d938c7866efb2de734fa441aa0ca12da87"
+
+[[files]]
 file = "mods/alexs-caves-(unofficial-port).pw.toml"
 hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
@@ -451,6 +455,10 @@ hash = "92eefd4353c9b4de808949cf057be8f6f61d18d73ce8691300bda6d5b7f8551a"
 metafile = true
 
 [[files]]
+file = "mods/physics item drop fabric 1.21.1-1.0.0.jar"
+hash = "fdec8d0818f63c06aa6551d694047a7304265c99460fd1565ed4566f0e0f421f"
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
@@ -639,6 +647,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r942990_MC26.3.x.zip"
+hash = "6479313839b6812c49a5b496c293ca4e19114fe42bf30c4f9fd4309b2a5a3e9c"
 
 [[files]]
 file = "resourcepacks/drodis-blazes-x-fresh-animations.pw.toml"
