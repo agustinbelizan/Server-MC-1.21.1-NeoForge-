@@ -30,6 +30,11 @@ hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
 file = "mods/backtogreece-0.4-1.21-1.21.1.jar"
 hash = "d0eb4f1094a819b38cd43036cde24a37ca2f3652079c037647864c2610b39f03"
 
@@ -60,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/bl4cks-sit.pw.toml"
-hash = "33f3f7e4bd46050a8511445793313ef82f2f4d181a15f6fb28ecef2e5aea46e5"
+hash = "2cfa9768cc635d7ec8cbc0172e62db5ad0fc79117b927344d7f2484b78ebd7b7"
 metafile = true
 
 [[files]]
@@ -259,6 +264,11 @@ hash = "db51a17b26c0d3c779740a454278ba1fcd1a558c8b5b2196c2c7972ea38f3d2c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e612f6a7f4d6101651ec929647a42d18a6b321d596e29e2b7821ced0bbccdff9"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armor-hud.pw.toml"
 hash = "62b5891b0bc5e65014e484ca6acd78a3331a0686501cfdf4d736d9f0b50ea3bc"
 metafile = true
@@ -315,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "b902e2a8d9a070dec6136632ea901f2bcb7185c41554d08128f377a1825ed495"
+hash = "e5347f876614ddeaff10c2e7417f946ac5ef56c56acf7838d166d1cd5a8d9d1c"
 metafile = true
 
 [[files]]
@@ -419,11 +429,6 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/nekos-enchanted-books.pw.toml"
-hash = "9722a21d7ab0c608d4ca84a62cbe75d5a97f5b6f912ef836c3205e766a7ab365"
-metafile = true
-
-[[files]]
 file = "mods/new-health-bars.pw.toml"
 hash = "2b71863edd2540d93517f6a0a40e6dd04a460039a3a8c385308c45ffc453a347"
 metafile = true
@@ -456,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/physics item drop neoforge-1.21.1-1.0.0.jar"
 hash = "814204cf01e4c8b1eabae6bc7f58c6b8a657a335faad38ac3318c42838b4128b"
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
@@ -668,6 +678,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "4bb8ca44a3571fed5b37220e96071527f81aa184ba0e2b26eaeaa1386f4545c1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "fc336bb66bfb726bd8388c2b36cc72b59c1a40c5fff9d99c2ef0e41ab4c75d03"
 metafile = true
 
 [[files]]
