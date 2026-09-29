@@ -547,11 +547,6 @@ file = "mods/simple-hud-enhanced+1.21.1-4.7.5.1.jar"
 hash = "10170394fea3f5024ad295b443530ae9788aebb77d1ed3550597c2a3187027b8"
 
 [[files]]
-file = "mods/simple-hud-enhanced-neoforge.pw.toml"
-hash = "2bf4e0a400cb82fbf483955588eed188a009f5fd3c96a6e88b9e346de9ce5995"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
