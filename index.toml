@@ -454,11 +454,6 @@ hash = "7611d9501188ec56d36bec90c7c9cf405e01bc4d2c241c00914687d726c51296"
 metafile = true
 
 [[files]]
-file = "mods/paradise-lost.pw.toml"
-hash = "92eefd4353c9b4de808949cf057be8f6f61d18d73ce8691300bda6d5b7f8551a"
-metafile = true
-
-[[files]]
 file = "mods/physics item drop neoforge-1.21.1-1.0.0.jar"
 hash = "814204cf01e4c8b1eabae6bc7f58c6b8a657a335faad38ac3318c42838b4128b"
 
