@@ -543,6 +543,10 @@ hash = "79bb625f51bf7229d38bb5e833cdc49105ccb3dc86ac7f69d12e0bd62fb883a9"
 metafile = true
 
 [[files]]
+file = "mods/simple-hud-enhanced+1.21.1-4.7.5.1.jar"
+hash = "10170394fea3f5024ad295b443530ae9788aebb77d1ed3550597c2a3187027b8"
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
