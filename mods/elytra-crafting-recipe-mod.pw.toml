@@ -1,0 +1,13 @@
+name = "Elytra Crafting Recipe"
+filename = "elytra-crafting-recipe-mod-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MboNFXZc/versions/ERi4270q/elytra-crafting-recipe-mod-1.0.jar"
+hash-format = "sha512"
+hash = "b698680e4c8f6c4ec8299ac86338ce7353226247fd00aff762e3527901b6d2fff86a7f08fc9682106020f67e9b644da804036c2e321a6257fe6b872212ecf8ba"
+
+[update]
+[update.modrinth]
+mod-id = "MboNFXZc"
+version = "ERi4270q"
