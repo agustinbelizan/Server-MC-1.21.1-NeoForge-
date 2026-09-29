@@ -1,0 +1,13 @@
+name = "Agutsin Server"
+author = "Agustin Belizan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ca7e0e70da6f2e47a84ac1cddbac235646b353d2621cac10c049f3d0abe17d5e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"

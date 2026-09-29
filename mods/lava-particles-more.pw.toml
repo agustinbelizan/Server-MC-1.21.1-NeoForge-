@@ -1,0 +1,13 @@
+name = "Lava Particles | More"
+filename = "lavalive-neoforge-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ynAer77T/versions/TH7uSBFP/lavalive-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "a62eb127790a2932b168f49e4678730e225da288818de23037b9848cc34cee794fd6eefa6d186d733610c901c973e9abef0af860e846903c4f0c72bcbd46baf8"
+
+[update]
+[update.modrinth]
+mod-id = "ynAer77T"
+version = "TH7uSBFP"

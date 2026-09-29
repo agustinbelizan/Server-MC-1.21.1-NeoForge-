@@ -1,0 +1,13 @@
+name = "Sit"
+filename = "sit-neoforge-26.1.2-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VKXzIykF/versions/eZTSuFZ9/sit-neoforge-26.1.2-1.5.2.jar"
+hash-format = "sha512"
+hash = "eecb96b49cfeff632aaad2cddd61466e572ac5564de1eadbc5f48bbd953296075e2d240ada6dd529eca1850c254001b00985c954974e1a8a2547c5ca36549c92"
+
+[update]
+[update.modrinth]
+mod-id = "VKXzIykF"
+version = "eZTSuFZ9"

@@ -1,0 +1,13 @@
+name = "Drodi's Villagers x Fresh Animations"
+filename = "§2Drodi's Villagers FA [V2.8].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dhYtY0Ok/versions/hAd7dVrO/%C2%A72Drodi%27s%20Villagers%20FA%20%5BV2.8%5D.zip"
+hash-format = "sha512"
+hash = "4a67ab599dc34a95b4a1ced8ed72578e4372f4716754b1d20d9e59199546934782ddbeb9a7d2e791ce6db028b1fc8807971fa68f42ffb6660168d10da9851ab3"
+
+[update]
+[update.modrinth]
+mod-id = "dhYtY0Ok"
+version = "hAd7dVrO"

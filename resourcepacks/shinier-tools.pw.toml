@@ -1,0 +1,13 @@
+name = "Shinier Tools"
+filename = "Shinier Tools.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GOFyVF2S/versions/hOpUJEof/Shinier%20Tools.zip"
+hash-format = "sha512"
+hash = "bba7e400c7ad2bdc1f96eb7392e77c4a8acea254c7fa4bb46d2d81ecd4b7d96f93a3552e3854233aa448c1dca6e63628ee433a856175b904e8211747c220eceb"
+
+[update]
+[update.modrinth]
+mod-id = "GOFyVF2S"
+version = "hOpUJEof"

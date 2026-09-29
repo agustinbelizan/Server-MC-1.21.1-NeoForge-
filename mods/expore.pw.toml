@@ -1,0 +1,13 @@
+name = "ExpOre"
+filename = "exp_ore-1.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W4M9UzOJ/versions/qTNGWwDl/exp_ore-1.0.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "623f09182419256ac8d71fd35e4e4a2c74a3eef5863c527e460c7d63a5330c44bf148724bb99df1dc577995a588900f9b71f4838347b4060e725d417b2c6d865"
+
+[update]
+[update.modrinth]
+mod-id = "W4M9UzOJ"
+version = "qTNGWwDl"

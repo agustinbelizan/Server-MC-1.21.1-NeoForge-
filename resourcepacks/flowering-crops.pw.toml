@@ -1,0 +1,13 @@
+name = "Flowering Crops"
+filename = "flowering-crops-1-21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8KFdcxdj/versions/YnEUvdVp/flowering-crops-1-21.zip"
+hash-format = "sha512"
+hash = "8d72757e282946b994c3856a3c645ba444c023fed034c78d578a4ee109be85f265d7262d596789e927494c441e1f93b0d2a3f958c4cbd2f7b03c2f238a7472b0"
+
+[update]
+[update.modrinth]
+mod-id = "8KFdcxdj"
+version = "YnEUvdVp"

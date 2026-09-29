@@ -1,0 +1,13 @@
+name = "Shades"
+filename = "shades-1.21.1-NeoForge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dqXYDtqL/versions/jy8i7ee7/shades-1.21.1-NeoForge-1.0.1.jar"
+hash-format = "sha512"
+hash = "94aaa3e647a052f8f8496c679b252b5f6f6e7736eaecf89e035d2ef51e6245cee60ee2ff1d6c09eaf363d49afedb73e38721379f7a26c91b117a3b17078f6d30"
+
+[update]
+[update.modrinth]
+mod-id = "dqXYDtqL"
+version = "jy8i7ee7"

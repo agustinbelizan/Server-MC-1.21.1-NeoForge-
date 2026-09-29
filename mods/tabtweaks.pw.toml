@@ -1,0 +1,13 @@
+name = "Tab Tweaks"
+filename = "tabtweaks-1.5.8+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aVyWAtot/versions/leDnv0lZ/tabtweaks-1.5.8%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "238f16c6cf53424e841174551c2e8db28a28bf6a87386b672ef1febac52b3d702e87bb9239125e2b3cd8bec70686242f465583e5ac16b38347ff947ea40c78cc"
+
+[update]
+[update.modrinth]
+mod-id = "aVyWAtot"
+version = "leDnv0lZ"

@@ -1,0 +1,13 @@
+name = "Craftable Elytra"
+filename = "craft-elytra-48.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYdqvcAu/versions/3y0hGWcE/craft-elytra-48.1.jar"
+hash-format = "sha512"
+hash = "bff9924828cd7837007c052ffc3f6d32543a9e3e93e2165826d28a215c197947e704780b385f01fa0565c7d02ab4655f73012a0461ad9ec4c04195d285c73a69"
+
+[update]
+[update.modrinth]
+mod-id = "hYdqvcAu"
+version = "3y0hGWcE"

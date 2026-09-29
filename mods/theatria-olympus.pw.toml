@@ -1,0 +1,13 @@
+name = "Olympus"
+filename = "olympus-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OQ9RTz5v/versions/u6aUfyFn/olympus-0.0.3.jar"
+hash-format = "sha512"
+hash = "db2a3a7323020e0a32ee814657182176fb77fe7108522591e9952074d57255500774aa5b081fc30f495d2d8f7b816b14ece51208e7f61cf135ce42371c70fb99"
+
+[update]
+[update.modrinth]
+mod-id = "OQ9RTz5v"
+version = "u6aUfyFn"

@@ -1,0 +1,13 @@
+name = "The Graveyard - Resurrected"
+filename = "graveyard-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SQdoVX3X/versions/Tut3kciV/graveyard-1.0.1.jar"
+hash-format = "sha512"
+hash = "7a9e8bacc1638440205168239ceb51875dc17f45272237303b800dfbb464e2490645afe8daa1544bb24aba136cceefcb47baf07e5857b33712ce1470b261fafe"
+
+[update]
+[update.modrinth]
+mod-id = "SQdoVX3X"
+version = "Tut3kciV"

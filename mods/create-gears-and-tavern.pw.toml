@@ -1,0 +1,13 @@
+name = "Create: Gears and Tavern"
+filename = "creategearsandtavern-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZjAeukl9/versions/PXPGcZMT/creategearsandtavern-1.1.8.jar"
+hash-format = "sha512"
+hash = "f72bb5d2413653cfc96f0aaad561cb8363574fc116b60bd8be4fcd598b1388f551c36cf702413cb6896ff3126e3c91cc1c1a842cb7eadc788678fc0800b20168"
+
+[update]
+[update.modrinth]
+mod-id = "ZjAeukl9"
+version = "PXPGcZMT"

@@ -1,0 +1,13 @@
+name = "Dimensions of Alex's Caves (Unofficial Port)"
+filename = "alex_caves_dimensions-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c3C4SvuQ/versions/OJpP9UtE/alex_caves_dimensions-1.1.0.jar"
+hash-format = "sha512"
+hash = "5523fe4834ddd585e7353332065453375e870c3d494f514696c0c2ddbba23cdac3fb720ddd6321e64930cd777a8a8d9337ff463e1e78bac97206eb3fafb5af5c"
+
+[update]
+[update.modrinth]
+mod-id = "c3C4SvuQ"
+version = "OJpP9UtE"

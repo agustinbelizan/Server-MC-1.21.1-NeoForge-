@@ -1,0 +1,13 @@
+name = "Nirvana Dealer Expansion"
+filename = "nirvana-dealer-expansion-1.21.1-1.4.1-fixed.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f620b69b061f9665fd2edeb9bf58cb3c282aa17c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8917664
+project-id = 1686904

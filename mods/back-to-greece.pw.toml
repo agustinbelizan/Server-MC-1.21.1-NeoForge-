@@ -1,0 +1,13 @@
+name = "Back To Greece"
+filename = "backtogreece-0.4-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b8cd88243054970cbe32e5752553d8354151f93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8959770
+project-id = 1628658
