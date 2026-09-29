@@ -1,0 +1,87 @@
+#World border. Applied on server start and re-applied live when this file is edited.
+[world_border]
+	#Per-dimension border diameters, one entry per dimension as "<dimension_id>=<size>".
+	#Size is the full width in blocks. Dimensions not listed here are left untouched.
+	sizes = ["minecraft:overworld=2000", "minecraft:the_nether=500", "minecraft:the_end=59999968", "the_bumblezone:the_bumblezone=59999968", "undergarden:undergarden=59999968", "aether:the_aether=59999968"]
+	#Border center X (applies to every dimension).
+	# Default: 0.0
+	# Range: -3.0E7 ~ 3.0E7
+	center_x = 0.0
+	#Border center Z (applies to every dimension).
+	# Default: 0.0
+	# Range: -3.0E7 ~ 3.0E7
+	center_z = 0.0
+	#Distance in blocks from the border at which the red warning overlay appears.
+	# Default: 32
+	# Range: > 0
+	warning_blocks = 32
+	#Seconds before a shrinking border reaches you at which the warning overlay appears.
+	# Default: 15
+	# Range: > 0
+	warning_time = 15
+	#Blocks past the border a player may go before taking damage.
+	# Default: 5.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	damage_safe_zone = 5.0
+	#Damage per second per block past the safe zone.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.7976931348623157E308
+	damage_per_block = 0.2
+
+#Sleep.
+[sleep]
+	#Percent of players that must sleep to skip the night. 0 = a single sleeper skips it.
+	# Default: 0
+	# Range: 0 ~ 100
+	players_sleeping_percentage = 0
+
+#Day/night ritual time acceleration.
+[time]
+	#Day-ticks advanced per server tick while a ritual sweeps time toward dawn/dusk (vanilla is 1).
+	#Higher = faster transition. At 100 a dusk<->dawn sweep takes ~6-7 seconds.
+	# Default: 100.0
+	# Range: 1.0 ~ 10000.0
+	sweep_rate = 100.0
+
+#Day/night schedule. These two times define when day and night begin and are the
+#single source of truth for BOTH the day-cycle sounds (rooster at day_start, wolf at
+#night_start) and the time rituals (Sunfish sweeps to day_start, Nightfish to
+#night_start). Keep day_start < night_start.
+[day_cycle]
+	#Time of day (0-24000) that day begins. 1000 = morning. Rooster crows here; Sunfish sweeps here.
+	# Default: 1000
+	# Range: 0 ~ 24000
+	day_start = 1000
+	#Time of day (0-24000) that night begins. 13000 = nightfall. Wolf howls here; Nightfish sweeps here.
+	# Default: 13000
+	# Range: 0 ~ 24000
+	night_start = 13000
+
+#Ritual outcomes — what each offering does when offered at an Oracle Altar.
+[rituals]
+	#How long the Rainstick ritual makes it rain, in ticks. 6000 = ~5 minutes.
+	# Default: 6000
+	# Range: > 0
+	rain_duration_ticks = 6000
+
+#Resize potions (Enlarging/Shrinking) — how much they scale the drinker.
+#Total scale = 1.0 + base + per_level * amplifier (amplifier 0 = level I, 1 = level II).
+#Read live, so changes apply to the next potion drunk; no restart needed.
+#Extreme values are clamped by the game's scale attribute bounds.
+[resize]
+	#Scale added by Enlarging I. 0.5 = 1.5x.
+	# Default: 0.5
+	# Range: 0.0 ~ 15.0
+	enlarged_base_scale = 0.5
+	#Extra scale per level above I (Strong = II). 0.5 -> II = +1.0 (2.0x).
+	# Default: 0.5
+	# Range: 0.0 ~ 15.0
+	enlarged_per_level_scale = 0.5
+	#Scale added by Shrinking I. -0.5 = 0.5x.
+	# Default: -0.5
+	# Range: -0.95 ~ 0.0
+	shrunk_base_scale = -0.5
+	#Extra scale per level above I (Strong = II). -0.25 -> II = -0.75 (0.25x).
+	# Default: -0.25
+	# Range: -0.95 ~ 0.0
+	shrunk_per_level_scale = -0.25
