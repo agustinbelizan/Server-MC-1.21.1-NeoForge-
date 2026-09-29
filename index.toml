@@ -737,11 +737,6 @@ hash = "ce33dc64d9b27f2540d7cc3f8aa26931a5fc7f1912097ee37ba3fe851dfe7f09"
 metafile = true
 
 [[files]]
-file = "resourcepacks/health-bars.pw.toml"
-hash = "5c2dd445ae99f1164635ee36e97744a8533e931bfdb9fd599b20e57dfc79b966"
-metafile = true
-
-[[files]]
 file = "resourcepacks/icon-fresh.pw.toml"
 hash = "4eac41dec26bd3e8b0298f1753d8888c60c0dfd0f0dc40b04a54144e66b7fe07"
 metafile = true
