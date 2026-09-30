@@ -46,10 +46,10 @@ toggleGameTime24Hour = true
 toggleGameDayCounter = true
 
 [statusElements.systemTime]
-toggleSystemTime = true
+toggleSystemTime = false
 textScale = 150
 textBackground = false
-toggleSystemTime24Hour = true
+toggleSystemTime24Hour = false
 
 [statusElements.counters]
 toggleEntityCount = false
@@ -96,11 +96,11 @@ equipmentStatusLocationX = 0
 equipmentStatusLocationY = 60
 
 [equipmentStatus.Durability]
-showDurability = true
+showDurability = false
 showTotalCount = false
 showDurabilityAsPercentage = false
-showColour = true
-showDurabilityAsBar = true
+showColour = false
+showDurabilityAsBar = false
 
 [equipmentStatus.Durability.slots]
 Head = true

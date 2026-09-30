@@ -1090,7 +1090,7 @@ hash = "9e32f003a7d8eecb4af11d557aca88afe0761e77db69e416df3b68316dd6ce39"
 
 [[files]]
 file = "config/config/fabric/indigo-renderer.properties"
-hash = "2933e66867c6912cf4f6d36bb2b3cf3761b8f3edaf29ea422874165eefde967d"
+hash = "acc517cec9ef7692612289eca9ec491f2fb8b0546a66a633148a66f9f4ede610"
 
 [[files]]
 file = "config/config/farmersdelight-client.toml"
@@ -1206,7 +1206,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/config/iris.properties"
-hash = "5d02f4d2e9c40452a7511c11ba4dbe2f4fb154e181894996ae48043c3257a03d"
+hash = "d7d833fba67abafb561cfd5c1fece9c6fe0c042c0a5b49f7a36e81ca9e9556d5"
 
 [[files]]
 file = "config/config/item_descriptions.toml"
@@ -1470,7 +1470,7 @@ hash = "c1f09a771243a708f0ca0c0d5c12e37cd08a9dd6b27721dd19340c3529242323"
 
 [[files]]
 file = "config/config/simplehudenhanced.toml"
-hash = "9d39d0632f42c77f2f3005f6b44702cfe72c6a8ed0ce41b9665c440d4d3c947b"
+hash = "6655a4441288758c8d41a899e6736bae8210a1421c009b7dfa2a931a917e20c0"
 
 [[files]]
 file = "config/config/sit-server.toml"
