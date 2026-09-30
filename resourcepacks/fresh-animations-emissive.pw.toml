@@ -1,6 +1,6 @@
 name = "Fresh Animations: Emissive"
 filename = "FA+Emissive-v1.6.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/VRS2YQn9/versions/byyyyS7z/FA%2BEmissive-v1.6.zip"

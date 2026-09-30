@@ -1,6 +1,6 @@
 name = "Fresh Animations: Classic Horses"
 filename = "FA+Classic_Horses-v1.5.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/rrRWRbvm/versions/WHIXEmWJ/FA%2BClassic_Horses-v1.5.zip"

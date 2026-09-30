@@ -1,6 +1,6 @@
 name = "Enchantment Outlines"
 filename = "Enchantment Outlines.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/A32gwfe8/versions/2OjKyOYN/Enchantment%20Outlines.zip"

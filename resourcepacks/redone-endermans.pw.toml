@@ -1,6 +1,6 @@
 name = "Hellay's Redone Endermans"
 filename = "Hellay's Redone Enderman - v1.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9Zb6H9nr/versions/nAZaMdUd/Hellay%27s%20Redone%20Enderman%20-%20v1.1.zip"

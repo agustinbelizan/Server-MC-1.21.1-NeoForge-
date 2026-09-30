@@ -1,6 +1,6 @@
 name = "Fresh Animations: Spiders"
 filename = "FA+Spiders-v2.2.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/aqKnWmBf/versions/26pzeVJN/FA%2BSpiders-v2.2.zip"

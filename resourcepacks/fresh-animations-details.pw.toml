@@ -1,6 +1,6 @@
 name = "Fresh Animations: Details"
 filename = "FA+Details-v2.2.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/lctgpCsu/versions/tGydmcT3/FA%2BDetails-v2.2.1.zip"

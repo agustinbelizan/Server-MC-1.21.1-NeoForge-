@@ -1,6 +1,6 @@
 name = "Fresh Animations: Creepers"
 filename = "FA+Creepers-v2.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/AhPf2E1u/versions/GrfbfoJB/FA%2BCreepers-v2.1.zip"

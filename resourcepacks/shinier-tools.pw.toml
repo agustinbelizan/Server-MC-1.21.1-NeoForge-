@@ -1,6 +1,6 @@
 name = "Shinier Tools"
 filename = "Shinier Tools.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/GOFyVF2S/versions/hOpUJEof/Shinier%20Tools.zip"

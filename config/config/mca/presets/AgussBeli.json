@@ -1,0 +1,139 @@
+{
+  "ChatAIPrompt": "You prefer simple meals over elaborate dishes. You believe promises made during difficult times matter the most. A flood forced your former settlement to rebuild on higher ground.",
+  "InfectionProgress": 0.0,
+  "LastGossipDecay": 0,
+  "GeneVoiceTone": 0.89384633,
+  "FallFlying": 0,
+  "HurtTime": 0,
+  "Health": 20.0,
+  "GeneHemoglobin": 0.0,
+  "GeneFace": 0.3019206,
+  "VillagerData": {
+    "profession": "minecraft:none",
+    "level": 1,
+    "type": "minecraft:plains"
+  },
+  "longTermMemory": {},
+  "BabyAge": 0,
+  "HairExtra": "",
+  "PlayerModel": 1,
+  "HairBase": "mca:skins/hair/male/4.png",
+  "HandItems": [
+    {},
+    {}
+  ],
+  "SkinColor": -16777216,
+  "CitadelData": {},
+  "HasBaby": 0,
+  "HurtByTimestamp": 0,
+  "Mood": 9,
+  "Age": 1,
+  "Brain": {
+    "memories": {}
+  },
+  "GeneVoice": 0.7256042,
+  "HairStyle": "mca:skins/hair/male/4.png",
+  "GeneMelanin": 0.5146456,
+  "GeneBreast": 0.5900525,
+  "Xp": 0,
+  "nicknames": {},
+  "RestocksToday": 0,
+  "Clothes": "mca:skins/clothing/normal/neutral/none/12.png",
+  "AgeState": 5,
+  "DeathTime": 0,
+  "HairColor": -16777216,
+  "Personality": "mca:sensitive",
+  "GeneEyeBrightness": 0.7921461,
+  "PersistenceRequired": 0,
+  "GeneWidth": 0.46929154,
+  "CanPickUpLoot": 1,
+  "Hair": "",
+  "HairBangs": "",
+  "GeneSkin": 0.4666595,
+  "Gossips": [],
+  "Inventory": [],
+  "MCADataVersion": 1,
+  "ActiveChore": 0,
+  "IsPanicking": 0,
+  "IsProcreating": 0,
+  "HairBack": "",
+  "GiftSaturationQueue": [],
+  "HomeVillage": -1,
+  "ArmorItems": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "ClothingLocked": 0,
+  "ForcedAge": 0,
+  "the_afterdark:harder_mob": 0,
+  "HandDropChances": [
+    0.085,
+    0.085
+  ],
+  "ArmorDropChances": [
+    0.085,
+    0.085,
+    0.085,
+    0.085
+  ],
+  "Memories": {
+    "b1084dfd-4365-398a-bc18-12fcc8d09bc3": {
+      "lastSeen": 7,
+      "interactionFatigue": 0,
+      "playerUUID": [
+        -1324855811,
+        1130707338,
+        -1139272964,
+        -925852733
+      ],
+      "dialogueType": 2,
+      "hearts": 0
+    },
+    "3dd8f3a1-0ac4-3256-adc4-0fda45c62e03": {
+      "lastSeen": 6,
+      "interactionFatigue": 0,
+      "playerUUID": [
+        1037628321,
+        180630102,
+        -1379659814,
+        1170615811
+      ],
+      "dialogueType": 2,
+      "hearts": 0
+    }
+  },
+  "InteractedWith": 0,
+  "GenePheomelanin": 0.43141466,
+  "EyeColor": -1,
+  "attributes": [
+    {
+      "id": "minecraft:generic.attack_damage",
+      "base": 3.0
+    },
+    {
+      "id": "minecraft:generic.movement_speed",
+      "base": 0.5
+    }
+  ],
+  "EyeColorLeft": -1,
+  "GrowthAmount": 0,
+  "HairFront": "",
+  "LastProcreation": 0,
+  "Traits": {
+    "mca:left_handed": 1
+  },
+  "Gender": 1,
+  "MoveState": 0,
+  "AbsorptionAmount": 0.0,
+  "LeftHanded": 0,
+  "GeneSize": 0.7878788,
+  "DespawnDelay": 0,
+  "IsBabyMale": 0,
+  "WearArmor": 0,
+  "GeneEumelanin": 0.9702021,
+  "FoodLevel": 0,
+  "LastRestock": 0,
+  "Skin": "mca:skins/skin/male/0.png"
+}

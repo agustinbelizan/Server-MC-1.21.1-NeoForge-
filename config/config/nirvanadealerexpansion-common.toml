@@ -1,0 +1,9 @@
+[features]
+	#Add rotating Nirvana buy offers to eligible villagers without replacing vanilla/modded offers.
+	normalVillagerTrades = false
+	#Nearby iron golems become hostile to the player after a completed Nirvana villager trade.
+	golemReaction = false
+	#How long, in ticks, iron golems remain angry after a Nirvana trade.
+	# Default: 600
+	# Range: 20 ~ 12000
+	golemAngerDurationTicks = 600
