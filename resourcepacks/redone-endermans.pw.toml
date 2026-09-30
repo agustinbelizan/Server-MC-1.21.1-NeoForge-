@@ -1,0 +1,13 @@
+name = "Hellay's Redone Endermans"
+filename = "Hellay's Redone Enderman - v1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Zb6H9nr/versions/nAZaMdUd/Hellay%27s%20Redone%20Enderman%20-%20v1.1.zip"
+hash-format = "sha512"
+hash = "36476f5fbfad9b28046b247de40daa40d5f76fac208da5d69890c5647ccf1a115ff933e50ec6dde534f3e58ecc36ff4d6c1a3da562488c13a9efaf9c965c7792"
+
+[update]
+[update.modrinth]
+mod-id = "9Zb6H9nr"
+version = "nAZaMdUd"

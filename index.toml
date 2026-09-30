@@ -1575,11 +1575,6 @@ hash = "c7683daf97a60a8ff61bd75c739038672d458f9eb5415e11f5f684497c0010a8"
 metafile = true
 
 [[files]]
-file = "mods/realistic-nametag.pw.toml"
-hash = "0c6d653c82a962a15221e9abd853e027645ed2b2cddc58889792213c2fdec0f1"
-metafile = true
-
-[[files]]
 file = "mods/refined-storage-jei-integration.pw.toml"
 hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
 metafile = true
@@ -1845,6 +1840,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/redone-endermans-fa.pw.toml"
 hash = "f63abe889e69dd03cb6a16a1b5aa4a842bb5568d3bad8d779e59293311a9095b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redone-endermans.pw.toml"
+hash = "939db3ba9be7dbe0207b2927244e285ce12cdd8857a7fc38710508ddf26cbde8"
 metafile = true
 
 [[files]]
