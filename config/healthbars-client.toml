@@ -1,9 +1,9 @@
 #Allow rendering health bars as part of the gui.
 #Default Value: true
-gui_rendering = true
+gui_rendering = false
 #Allow rendering health bars above entities in the level.
 #Default Value: true
-level_rendering = false
+level_rendering = true
 #Are health bars enabled, toggleable in-game via the dedicated keybinding.
 any_rendering = true
 
@@ -101,7 +101,7 @@ any_rendering = true
 	scale_with_distance = true
 	#Show health bars for the entity picked by the crosshair only.
 	#Default Value: false
-	picked_entity = false
+	picked_entity = true
 	#Distance to the mob at which health bars will still be visible. The distance is halved when the mob is crouching.
 	#Default Value: 96
 	# Default: 96
@@ -122,7 +122,7 @@ any_rendering = true
 	#Default Value: 2
 	# Default: 2
 	# Range: 1 ~ 4
-	health_bar_width = 2
+	health_bar_width = 3
 	#Show a black transparent background behind health bar text.
 	#Default Value: false
 	render_background = true

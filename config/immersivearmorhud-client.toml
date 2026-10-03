@@ -1,11 +1,11 @@
 #.
 #Render the armor hud on the right side.
-"Right Aligned" = false
+"Right Aligned" = true
 #.
 #Additional Y offset of the armor hud
 # Default: 0
 # Range: > -2147483648
-"Y Offset" = 0
+"Y Offset" = -10
 #.
 #Additional X offset of the armor hud
 # Default: 0

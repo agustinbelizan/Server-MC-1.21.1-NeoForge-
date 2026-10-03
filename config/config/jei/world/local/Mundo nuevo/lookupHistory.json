@@ -1,6 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:end_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"mca:scythe"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

@@ -1,9 +1,0 @@
-{
-  "guaranteedTokenResetHour": 18,
-  "defaultPlayerColor": "original",
-  "debugLogging": false,
-  "regularTokenCooldownHours": 3,
-  "maxRegularTokens": 3,
-  "showColorSelectionOnJoin": true,
-  "hiddenCollections": []
-}

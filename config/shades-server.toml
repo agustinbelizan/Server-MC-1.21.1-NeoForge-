@@ -7,4 +7,4 @@ onlyOwnerCanDamageShade = true
 #If enabled, shades will be enabled in peaceful mode.
 spawnShadesInPeaceful = false
 #If enabled, Shades will display who it belongs to above its head.
-showShadeOwnerNames = false
+showShadeOwnerNames = true
