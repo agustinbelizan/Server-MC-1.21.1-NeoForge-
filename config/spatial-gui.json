@@ -1,16 +1,16 @@
 {
   "enabled": true,
-  "firstPersonModeInventory": true,
-  "firstPersonModeContainers": true,
+  "firstPersonModeInventory": false,
+  "firstPersonModeContainers": false,
   "autoCalculateGuiScale": false,
-  "guiScale": 2,
-  "autoScaleByFov": false,
+  "guiScale": 4,
+  "autoScaleByFov": true,
   "mirrorThirdPerson": false,
   "hideHotbar": false,
   "autoFovTuning": {
     "autoScaleBaselineFov": 70.0,
     "autoScaleScreenPower": 1.2,
-    "autoScaleSideOffsetMultiplier": 0.0,
+    "autoScaleSideOffsetMultiplier": -0.3,
     "autoScaleDistanceMultiplier": 0.8,
     "autoScaleThirdPersonScreenMultiplier": 0.82
   },

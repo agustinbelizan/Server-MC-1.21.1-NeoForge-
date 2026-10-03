@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "8a0b57162f32859a53bea36f6bbc714697687a7ccb26ccd413a6ecee1f3e6ec9"
+hash = "d0ed6f66e34704b179928761e78e862e0a77b247bffa281ef0b666da3bbac030"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -646,7 +646,7 @@ hash = "9e32f003a7d8eecb4af11d557aca88afe0761e77db69e416df3b68316dd6ce39"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f06b8b62ab8f91676581a4db7e31dc4c1e40e5f30cfaa4b33232e1361a4e9b42"
+hash = "ff16f8c5da4a6e1d7a460986de28905759bd4a4ee6eccf09fa9198c2b69a9283"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -738,7 +738,7 @@ hash = "2abb8702e36e2745284cb4337508d9e2305ff7bf1d6eebe23bf05de75b3acff6"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
-hash = "b51b91fe2130285a9297283ff57408a73cce48bfcb48771d00054123abbc98f6"
+hash = "ffb45bb0fadf1133d33ec69ff5780b1947902508638be41b805e4e5239b34e4d"
 
 [[files]]
 file = "config/inventoryprofilesnext/181.97.249.170/villager-trading-config-v2.json"
@@ -786,7 +786,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "746771bdccf7e21287aa6a0e461c8cdfaff3909147a0a2397e8e4c15aa029b19"
+hash = "81c10886e6d4fef428c742087566448a626390a147d20b3cc847f32e889cf0f3"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -1098,7 +1098,7 @@ hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
 
 [[files]]
 file = "config/spatial-gui.json"
-hash = "0560a690dcdce65861b5178803fc95f15434d59f2ec8ee066a7e154d1a44f296"
+hash = "03c7f133c266310bbb55f1fa97b8a3fea2669cbed0ee40d44ddc42232294ad1e"
 
 [[files]]
 file = "config/structure_layout_optimizer.jsonc"
@@ -1210,15 +1210,15 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
+hash = "5a5c0a25fb3cca39c8b36704edbb4902ea2459d495af906eea447f6b7ccdab5c"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+hash = "feaae17ae58b8452f3ab26e2bf0430c4be68c21656d49895b288e18385348ad3"
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"

@@ -28,11 +28,11 @@
 	#Show/Hide armor
 	showArmor = true
 	#Show/Hide armor
-	showMain = true
+	showMain = false
 	#Show/Hide armor
 	showOff = true
 	#Show/Hide armor
-	showArrows = true
+	showArrows = false
 	#Show/Hide armor
 	showInv = true
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
@@ -45,7 +45,7 @@
 	#Show/Hide empty slot icon
 	showEmpty = true
 	#Show overall count of items in main/off hand
-	showCount = false
+	showCount = true
 	#ArmorHUD scale in persentage from 50 to 150
 	# Default: 100
 	# Range: 50 ~ 150
@@ -131,59 +131,59 @@
 	#Helmet position (X)
 	# Default: 103
 	# Range: -9999 ~ 9999
-	helmPosX = 107
+	helmPosX = 185
 	#Helmet position (Y)
 	# Default: 54
 	# Range: -9999 ~ 9999
-	helmPosY = 92
+	helmPosY = 24
 	#Chestplate position (X)
 	# Default: 103
 	# Range: -9999 ~ 9999
-	chestPosX = 107
+	chestPosX = 205
 	#Chestplate position (Y)
 	# Default: 37
 	# Range: -9999 ~ 9999
-	chestPosY = 69
+	chestPosY = 24
 	#Leggings position (X)
 	# Default: -103
 	# Range: -9999 ~ 9999
-	legPosX = 107
+	legPosX = 225
 	#Leggings position (Y)
 	# Default: 54
 	# Range: -9999 ~ 9999
-	legPosY = 46
+	legPosY = 24
 	#Boots position (X)
 	# Default: -103
 	# Range: -9999 ~ 9999
-	bootPosX = 107
+	bootPosX = 123
 	#Boots position (Y)
 	# Default: 37
 	# Range: -9999 ~ 9999
-	bootPosY = 23
+	bootPosY = 24
 	#MainHand position (X)
 	# Default: 103
 	# Range: -9999 ~ 9999
-	mainPosX = 134
+	mainPosX = 150
 	#MainHand position (Y)
 	# Default: 71
 	# Range: -9999 ~ 9999
-	mainPosY = 23
+	mainPosY = 25
 	#OffHand position (X)
 	# Default: -103
 	# Range: -9999 ~ 9999
-	offPosX = 134
+	offPosX = 103
 	#OffHand position (Y)
 	# Default: 71
 	# Range: -9999 ~ 9999
-	offPosY = 46
+	offPosY = 24
 	#Arrows position (X)
 	# Default: 103
 	# Range: -9999 ~ 9999
-	arrPosX = -146
+	arrPosX = 174
 	#Arrows position (Y)
 	# Default: 20
 	# Range: -9999 ~ 9999
-	arrPosY = 22
+	arrPosY = 25
 	#InvIcon position (X)
 	# Default: -103
 	# Range: -9999 ~ 9999
@@ -194,19 +194,19 @@
 	invPosY = 24
 	#Helmet horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	helmHal = "MIDDLE"
+	helmHal = "LEFT"
 	#Helmet vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	helmVal = "BOTTOM"
 	#Chestplate horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	chestHal = "MIDDLE"
+	chestHal = "LEFT"
 	#Chestplate vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	chestVal = "BOTTOM"
 	#Leggings horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	legHal = "MIDDLE"
+	legHal = "LEFT"
 	#Leggings vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	legVal = "BOTTOM"
@@ -218,7 +218,7 @@
 	bootVal = "BOTTOM"
 	#MainHand horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	mainHal = "MIDDLE"
+	mainHal = "RIGHT"
 	#MainHand vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	mainVal = "BOTTOM"
@@ -230,7 +230,7 @@
 	offVal = "BOTTOM"
 	#Arrows horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	arrHal = "MIDDLE"
+	arrHal = "RIGHT"
 	#Arrows vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	arrVal = "BOTTOM"
