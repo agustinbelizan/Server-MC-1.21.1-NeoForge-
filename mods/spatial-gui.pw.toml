@@ -1,0 +1,13 @@
+name = "Spatial GUI"
+filename = "spatial-gui-1.6+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zLBn2IE4/versions/WFBZuBje/spatial-gui-1.6%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "43fcef7676abb5f44bebfa5fb1bd09998557d9bf72dcea9261ca784877a902e3bdb9cb6d715f11f8126f966c3834380bacbe673d646d35f4c97d6610be6098ac"
+
+[update]
+[update.modrinth]
+mod-id = "zLBn2IE4"
+version = "WFBZuBje"
