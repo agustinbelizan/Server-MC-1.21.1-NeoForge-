@@ -1392,11 +1392,6 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "376b22883dd4642dee7bf1e727440cb01d87d72293952a1ddf0c2f1c25fa7863"
-metafile = true
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
@@ -1896,11 +1891,6 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
-file = "mods/spatial-gui.pw.toml"
-hash = "be07ba1399fad72768a40f225231267704a11cad906bbc6ce86b4d7b07075a98"
-metafile = true
-
-[[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "a66da60b40337e8bb57d81aef0f0c168771f2c6d8ae9d5e4af24031da2320795"
 metafile = true
@@ -2096,6 +2086,11 @@ hash = "21f19123eb37d3bb48d100cff35b06db83519d9eb52bee62df92960b24095500"
 metafile = true
 
 [[files]]
+file = "resourcepacks/immersive-interfaces-just-enough-items-(jei).pw.toml"
+hash = "0703ddb400cae6c9fe1b2fe8a2acb6398ade7bbaaf43adee4ac018b7a0ceea61"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redone-endermans-fa.pw.toml"
 hash = "7d2d6ad860765165653d6b05c3e7463baa3237db78fe38d02fc1488da7b2c33d"
 metafile = true
@@ -2108,6 +2103,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/shinier-tools.pw.toml"
 hash = "4da8328c688e51d3406945fd9e7a9ceb0ac073770c52b1e736f713234a15dd43"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+hash = "ae2879b2b43ab1f8838935f88a8dd653cd92b2bdc33049a6e4ff603d0c52e739"
 metafile = true
 
 [[files]]

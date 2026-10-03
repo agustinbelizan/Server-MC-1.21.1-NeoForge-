@@ -1,0 +1,13 @@
+name = "Immersive Interfaces - Just Enough Items (JEI)"
+filename = "§6Immersive§8_§6Interfaces§8_§6JEI§8.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LsvyKovD/versions/P4hB4cXG/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78_%C2%A76JEI%C2%A78.zip"
+hash-format = "sha512"
+hash = "ea42f7e8ad6280655c994d960c6c696ab31e3a7eb67f0ef378bf64be2b81f92c8af09894ee3afb50badcf7d4cc701ed02ad45f68ea20163fca01d4d1cd9fa215"
+
+[update]
+[update.modrinth]
+mod-id = "LsvyKovD"
+version = "P4hB4cXG"
