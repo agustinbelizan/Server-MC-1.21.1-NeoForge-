@@ -2535,6 +2535,11 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
+file = "mods/gottschcore.pw.toml"
+hash = "f2eaa0dfdd927ba931c9c80a7af71982a61054f3dd88de097cd4db89da20fa23"
+metafile = true
+
+[[files]]
 file = "mods/graveyard.pw.toml"
 hash = "1ae77e144c731181e5d71c03255b142e7136d03f6a6617f3eab3dbbd8b944449"
 metafile = true
