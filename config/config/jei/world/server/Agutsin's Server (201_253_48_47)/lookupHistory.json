@@ -1,4 +1,8 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:ender_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:dough"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:wooden_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -421,10 +421,6 @@ file = "config/appleskin-client.toml"
 hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
 [[files]]
-file = "config/backtogreece-server.toml"
-hash = "98a07ece34e888f3018ead3ab4686676a9fd41ec61924d162a98cd72a78fe1ec"
-
-[[files]]
 file = "config/bclib/client.json"
 hash = "18fc8be45dab81815e0196e2b0cb07c3aedee37ae6cd80ce5a66530396062179"
 
@@ -1090,7 +1086,7 @@ hash = "9e32f003a7d8eecb4af11d557aca88afe0761e77db69e416df3b68316dd6ce39"
 
 [[files]]
 file = "config/config/fabric/indigo-renderer.properties"
-hash = "acc517cec9ef7692612289eca9ec491f2fb8b0546a66a633148a66f9f4ede610"
+hash = "0a0306e1299ce3892eccabb458136594de977ef17ae64d0131fe2341193eec0e"
 
 [[files]]
 file = "config/config/farmersdelight-client.toml"
@@ -1162,7 +1158,7 @@ hash = "b69ba5f8c0e5d2140a7a67205e5eac8cf104de09c34cd888e32380e3a1e71bc8"
 
 [[files]]
 file = "config/config/immersiveoverlays.json"
-hash = "f40b58203060a26e1fcbabd4b2bf60122b4376cf6169bb296867019fcdc8faaf"
+hash = "c173ea5eaf833fc811492be520f15f31a4b44b07faefc30c9849489b12737bcf"
 
 [[files]]
 file = "config/config/immersiveui.yaml"
@@ -1206,7 +1202,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/config/iris.properties"
-hash = "d7d833fba67abafb561cfd5c1fece9c6fe0c042c0a5b49f7a36e81ca9e9556d5"
+hash = "bb370e55d18fca0a9489767737e7045056a213012d468e5a981036213390a630"
 
 [[files]]
 file = "config/config/item_descriptions.toml"
@@ -1273,8 +1269,16 @@ file = "config/config/jei/world/local/Mundo nuevo/lookupHistory.json"
 hash = "307f20381841625b70660abd89235021af8dc7bc1ad0a93859e8fc426f0d1eda"
 
 [[files]]
+file = "config/config/jei/world/server/Agutsin's Server (201_253_48_47)/bookmarks.json"
+hash = "e2cd5be9964b1638338063c1078a1c27eb69b0a08740d68e7a71810309954dd0"
+
+[[files]]
 file = "config/config/jei/world/server/Agutsin's Server (201_253_48_47)/lookupHistory.json"
-hash = "8b6d248f4845d66ad580ccda628c17630227dd9132ca55b8c9b94d47f1b9dd29"
+hash = "832a87cf268cfffc9c15d12afcb29187bdbfd946a92f0c018009926d1a7b6d21"
+
+[[files]]
+file = "config/config/jei/world/server/Servidor de Minecraft (181_97_249_170)/lookupHistory.json"
+hash = "a0d84df60ccfb332d4b683f096eb646be080090aaf5408d6313f73d8ac3e5b7d"
 
 [[files]]
 file = "config/config/kaleidoscope_tavern-common.toml"
@@ -1441,6 +1445,10 @@ file = "config/config/resourceful-config-web.json"
 hash = "f941c8e0a6592533314d9ed12fea8249cb28faef020a946fd0a18f171481006f"
 
 [[files]]
+file = "config/config/rts_building/rtsbuilding-client-ui.rtsd"
+hash = "900a33fbaee64241af19ae0228d2e67791e82159f13549730283af373ea837ad"
+
+[[files]]
 file = "config/config/rts_building/rtsbuilding-client.toml"
 hash = "3b3adfb9976077434827b1847571b131403cdcd6e888989c91f9e361bffe3d7d"
 
@@ -1470,7 +1478,7 @@ hash = "c1f09a771243a708f0ca0c0d5c12e37cd08a9dd6b27721dd19340c3529242323"
 
 [[files]]
 file = "config/config/simplehudenhanced.toml"
-hash = "6655a4441288758c8d41a899e6736bae8210a1421c009b7dfa2a931a917e20c0"
+hash = "af78f6eeadc6ed18860734fb726f9d0c6a24b1f5b6a09534af1165590c2fcd9c"
 
 [[files]]
 file = "config/config/sit-server.toml"
@@ -2053,10 +2061,6 @@ file = "config/shouldersurfing-client.toml"
 hash = "c1f09a771243a708f0ca0c0d5c12e37cd08a9dd6b27721dd19340c3529242323"
 
 [[files]]
-file = "config/simplehudenhanced.toml"
-hash = "4178e77f411dbcb11ec9924659ef184ae632561f7396d6b27424b0dc044ef2d8"
-
-[[files]]
 file = "config/sit-server.toml"
 hash = "01fe711a2a0ab1da20d99efb66321fbe92e2c3d5b7e445e002da35a0f2ef1fe2"
 
@@ -2241,10 +2245,6 @@ metafile = true
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
-
-[[files]]
-file = "mods/backtogreece-0.4-1.21-1.21.1.jar"
-hash = "d0eb4f1094a819b38cd43036cde24a37ca2f3652079c037647864c2610b39f03"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -2811,7 +2811,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
+hash = "2a24f88b147b255b8cd27d6be0dd8987b9ac4204f1ae64c540566e775f0fae54"
 metafile = true
 
 [[files]]
@@ -2841,12 +2841,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "64670072fa3b4db4a721769dd3d66a2865daac01c9a2480b9561675b1e9e9737"
+hash = "8ed3e895470dd147a57481100de34488b57a12d777a3ac0441e5d8d902d4b50c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f8cc300d53ae8bf71d77124e6c46a5e85fe31654b39c5d73a1652a4d9c404af4"
+hash = "f139ff8d596a050f140c50a54866bbbd454833e4014227986a716c39a7dbe535"
 metafile = true
 
 [[files]]
