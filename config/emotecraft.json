@@ -5,9 +5,9 @@
   "dark": false,
   "oldChooseWheel": false,
   "perspective": true,
-  "default3rdPersonFront": false,
+  "default3rdPersonFront": true,
   "showicon": true,
-  "enableNSFW": false,
+  "enableNSFW": true,
   "alwaysOpenScreen": false,
   "debug": true,
   "validate": false,
@@ -24,6 +24,17 @@
   "neverRemoveBadIcon": false,
   "exportBuiltin": false,
   "hideWarning": false,
-  "fastmenu": {},
+  "fastmenu": {
+    "0": {
+      "0": "0c4e83db-9165-4faf-b587-8bf886e98720",
+      "1": "0003d0e7-ee66-7848-0007-b4bc33390bb6",
+      "2": "0003b496-325c-14de-0007-7e5a5bdd50f8",
+      "3": "00038224-a69d-92d6-0007-292a2168d0e0",
+      "4": "d5f2063f-9bb2-4bfe-a4fc-8b257afcd992",
+      "5": "0003b47e-f49c-4afa-0007-81221abe1e4c",
+      "6": "073efaa6-9991-4f19-868d-bda675c319fe",
+      "7": "01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a"
+    }
+  },
   "keys": {}
 }

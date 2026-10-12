@@ -1,0 +1,13 @@
+name = "Create : Factory Processing"
+filename = "createfactory-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kFYiP4ND/versions/nqw9wsAh/createfactory-3.1.1.jar"
+hash-format = "sha512"
+hash = "3186c375de099b7d9b0ab0832cb408cad4a33caf42616be62d7ed5b85a6acd8150f69e46fc64095e75a416564f375c89bb736c3d9952c5d5898d3561c9f0dd5c"
+
+[update]
+[update.modrinth]
+mod-id = "kFYiP4ND"
+version = "nqw9wsAh"

@@ -3,13 +3,13 @@ unlockEnabled = true
 #Cooldown (ticks) between unlocks
 # Default: 2400
 # Range: 0 ~ 1728000
-unlockCooldown = 12000
+unlockCooldown = 1000000
 #List of banned trinkets eg: ["losttrinkets:piggy", "losttrinkets:magical_feathers"]
 #The trinkets listed in here will also be removed from players that already unlocked them.
-blackList = []
+blackList = ["losttrinkets:magical_feathers", "losttrinkets:ruby_heart", "losttrinkets:broken_totem", "losttrinkets:blaze_heart", "losttrinkets:magical_herbs", "losttrinkets:mad_aura", "losttrinkets:tha_cloud", "losttrinkets:silver_nail", "losttrinkets:ember", "losttrinkets:dark_egg", "losttrinkets:turtle_shell", "losttrinkets:tha_ghost", "losttrinkets:creepo", "losttrinkets:tha_wizard"]
 #List of trinkets that can't be unlocked randomly eg: ["losttrinkets:piggy", "losttrinkets:magical_feathers"]
 #The trinkets listed in here will not be removed from players that already unlocked them.
-nonRandom = []
+nonRandom = ["losttrinkets:magical_feathers", "losttrinkets:ruby_heart", "losttrinkets:broken_totem", "losttrinkets:blaze_heart", "losttrinkets:magical_herbs", "losttrinkets:mad_aura", "losttrinkets:tha_cloud", "losttrinkets:silver_nail", "losttrinkets:ember", "losttrinkets:dark_egg", "losttrinkets:turtle_shell", "losttrinkets:tha_ghost", "losttrinkets:creepo", "losttrinkets:tha_wizard"]
 
 [Trinket_Slots]
 	#Numbers of trinket slots the player will start with (Only effect newer players!!).
@@ -19,15 +19,15 @@ nonRandom = []
 	#Maximum number of trinket slots the player can have (does not remove unlocked slots)
 	# Default: 40
 	# Range: 1 ~ 40
-	maxSlots = 40
+	maxSlots = 5
 	#Levels of xp needed to unlock a trinket slot.
 	# Default: 15
 	# Range: 0 ~ 1000
-	slotCost = 30
+	slotCost = 40
 	#Amount of Xp levels added to the next unlocking cost.
 	# Default: 3
 	# Range: 0 ~ 1000
-	slotUpFactor = 6
+	slotUpFactor = 20
 
 [Killing_Unlocks]
 	#Set to false to disable unlocking trinkets from killing non-Boss entities.
@@ -35,7 +35,7 @@ nonRandom = []
 	#Rarity of unlocking a trinket from killing non-Boss entities. (Greater number = more rare)
 	# Default: 120
 	# Range: 2 ~ 100000
-	killing = 500
+	killing = 99999
 
 [Bosses_Killing_Unlocks]
 	#Set to false to disable unlocking trinkets from killing Bosses.
@@ -47,7 +47,7 @@ nonRandom = []
 
 [Farming_Unlocks]
 	#Set to false to disable unlocking trinkets from farming.
-	farmingUnlockEnabled = true
+	farmingUnlockEnabled = false
 	#Rarity of unlocking a trinket from farming. (Greater number = more rare)
 	# Default: 140
 	# Range: 2 ~ 100000
@@ -55,7 +55,7 @@ nonRandom = []
 
 [Ores_Mining_Unlocks]
 	#Set to false to disable unlocking trinkets from mining ores.
-	oresMiningUnlockEnabled = true
+	oresMiningUnlockEnabled = false
 	#Rarity of unlocking a trinket from mining ores. (Greater number = more rare)
 	# Default: 100
 	# Range: 2 ~ 100000
@@ -63,7 +63,7 @@ nonRandom = []
 
 [Trading_Unlocks]
 	#Set to false to disable unlocking trinkets from trading.
-	tradingUnlockEnabled = true
+	tradingUnlockEnabled = false
 	#Rarity of unlocking a trinket from trading. (Greater number = more rare)
 	# Default: 30
 	# Range: 2 ~ 100000
@@ -71,7 +71,7 @@ nonRandom = []
 
 [Wood_Cutting_Unlocks]
 	#Set to false to disable unlocking trinkets from cutting trees.
-	woodCuttingUnlockEnabled = true
+	woodCuttingUnlockEnabled = false
 	#Rarity of unlocking a trinket from cutting trees. (Greater number = more rare)
 	# Default: 170
 	# Range: 2 ~ 100000

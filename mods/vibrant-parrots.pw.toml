@@ -1,0 +1,13 @@
+name = "Vibrant Parrots"
+filename = "VibrantParrots-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7w63Mwj/versions/aBt2aY81/VibrantParrots-v21.1.0-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "4b67e3868453d4a7b9525e05e6292aaa037e4f110886062df832c0abcd47187bab0a07f777f982f93ab97d00a1db5a8adc489ec9730e58ae2db00cb8ee8530e3"
+
+[update]
+[update.modrinth]
+mod-id = "v7w63Mwj"
+version = "aBt2aY81"

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "APA",
+    "PCP",
+    "APA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "C": {
+      "item": "minecraft:recovery_compass"
+    }
+  },
+  "result": {
+    "id": "waystones:warp_stone",
+    "count": 1
+  }
+}

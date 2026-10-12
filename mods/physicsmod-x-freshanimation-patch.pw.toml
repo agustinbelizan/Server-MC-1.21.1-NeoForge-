@@ -1,0 +1,13 @@
+name = "PhysicsMod X FreshAnimation Patch"
+filename = "phyxfa-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a8s3VCHx/versions/yr8gJHa8/phyxfa-0.0.1.jar"
+hash-format = "sha512"
+hash = "6b2ccc888a7af916710a9208d6c83458348ffb8235d7f460a1f4b08726b28ce681851d1c916f9af3a4a68f326186dd9caed1c929a44be1d0cb0ed6dd4c66fb11"
+
+[update]
+[update.modrinth]
+mod-id = "a8s3VCHx"
+version = "yr8gJHa8"

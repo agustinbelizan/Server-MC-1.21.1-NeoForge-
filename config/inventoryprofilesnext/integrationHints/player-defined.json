@@ -1,9 +1,64 @@
 {
-    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
         "buttonHints": {
             "SETTINGS": {
-                "horizontalOffset": -1,
-                "top": -2
+                "horizontalOffset": 235,
+                "top": -20
+            },
+            "SORT": {
+                "horizontalOffset": -3,
+                "bottom": 2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -3,
+                "bottom": 2
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -2,
+                "bottom": 2
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 222,
+                "top": -5
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 33,
+                "bottom": 57
+            },
+            "SORT": {
+                "horizontalOffset": 42,
+                "bottom": 69
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 43,
+                "bottom": 69
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 44,
+                "bottom": 69
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": -17,
+                "bottom": -22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 214,
+                "top": -5
+            },
+            "SETTINGS": {
+                "horizontalOffset": 226,
+                "top": -20
+            }
+        }
+    },
+    "top.theillusivec4.curios.client.gui.CuriosScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "top": 98
             }
         }
     }

@@ -196,7 +196,7 @@
     "minecraft:grass_block",
     "minecraft:dirt"
   ],
-  "launchIntoDestiny": true,
+  "launchIntoDestiny": false,
   "allowDestinyCommandOnce": true,
   "allowDestinyCommandMoreThanOnce": false,
   "allowDestinyTeleportation": true,
@@ -272,10 +272,10 @@
     "sirben": "mca:shaders/post/sirben.json"
   },
   "playerRendererBlacklist": {
-    "firstpersonmod": "arms",
     "epicfight": "all",
     "morph": "arms",
-    "firstperson": "arms"
+    "firstperson": "arms",
+    "firstpersonmod": "arms"
   },
   "taxesMap": {
     "minecraft:emerald": 1.0

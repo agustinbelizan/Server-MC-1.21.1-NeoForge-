@@ -1,0 +1,5 @@
+# One trigger - one line
+# The entry of the line into the message => the message is not shown
+# Lines starting C # are ignored
+#
+Current RTS Building test version

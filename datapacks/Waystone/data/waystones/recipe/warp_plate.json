@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NWN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "W": {
+      "item": "waystones:warp_stone"
+    }
+  },
+  "result": {
+    "id": "waystones:warp_plate",
+    "count": 1
+  }
+}

@@ -26,10 +26,10 @@ any_rendering = true
 	#Default Value: 9
 	# Default: 9
 	# Range: > 0
-	offset_height = 6
+	offset_height = 9
 	#Allow rendering the visual mob display as part of the health bar overlay.
 	#Default Value: true
-	render_entity_display = false
+	render_entity_display = true
 	#Choose a position on the screen to show the interface at.
 	#Default Value: TOP_LEFT
 	#Allowed Values: TOP_LEFT, TOP_CENTER, TOP_RIGHT, CENTER_LEFT, CENTER, CENTER_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER, BOTTOM_RIGHT
@@ -122,13 +122,13 @@ any_rendering = true
 	#Default Value: 2
 	# Default: 2
 	# Range: 1 ~ 4
-	health_bar_width = 3
+	health_bar_width = 2
 	#Show a black transparent background behind health bar text.
 	#Default Value: false
-	render_background = true
+	render_background = false
 	#Allow rendering the heart sprite as part of the health text.
 	#Default Value: true
-	render_sprite_component = true
+	render_sprite_component = false
 	#Custom scale for rendering health bars.
 	#Default Value: 0.5
 	# Default: 0.5

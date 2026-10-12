@@ -13,7 +13,7 @@
     "Both the Guide Book and the Workbench stay craftable no matter what these are set to."
   ],
   "firstJoinGift": {
-    "guideBook": true,
-    "workbench": true
+    "guideBook": false,
+    "workbench": false
   }
 }

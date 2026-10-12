@@ -1,0 +1,13 @@
+name = "Linked Chests"
+filename = "LinkedChests-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mr2x2AUf/versions/GIiRpEEp/LinkedChests-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "56e459ed102d77c7042c69f85e982c01264679a9e73910ef5acf00516d72050299cd1ae0be5641ac26bdfbc65184f53fce0951d3056551823c31e378eb1a0d9c"
+
+[update]
+[update.modrinth]
+mod-id = "Mr2x2AUf"
+version = "GIiRpEEp"

@@ -1,0 +1,13 @@
+name = "Cozy Foods: Milk Tea"
+filename = "cozyfoods-neoforge-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d8b7338abba9701b25e8efbc69ad2d05057469d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7227296
+project-id = 888480
