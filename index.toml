@@ -2364,11 +2364,6 @@ hash = "79c500952f474fcba455c37f9ec62f4ed2f8222de607c8269c0fef50f4b54ad6"
 metafile = true
 
 [[files]]
-file = "mods/theatria-olympus.pw.toml"
-hash = "5000a15e8314ca1eca32201a7b9703df69d3402b3660452c30f2b5133b8d1631"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "f7ebc4c6a3887e13f28cd61e46c68289c4397f81d62b96377e32f7123d03bfad"
 metafile = true
