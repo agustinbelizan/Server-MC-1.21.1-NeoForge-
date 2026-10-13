@@ -1,0 +1,7 @@
+{
+  "enablePhysics": true,
+  "tumbleSpeed": 80.0,
+  "rollSpeed": 150.0,
+  "enableAirTumbling": true,
+  "enableGroundRolling": true
+}

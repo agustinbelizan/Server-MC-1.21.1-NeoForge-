@@ -1,19 +1,25 @@
 {
   "totalPatsCounter": {
-    "pats": 77
+    "pats": 108
   },
   "entities": {
     "graveyard:nameless_hanged": {
-      "pats": 35
+      "pats": 56
     },
     "reanimal:pigeon": {
       "pats": 0
+    },
+    "minecraft:fox": {
+      "pats": 8
     },
     "alexsmobs:capuchin_monkey": {
       "pats": 11
     },
     "minecraft:cow": {
       "pats": 27
+    },
+    "alexsmobs:banana_slug": {
+      "pats": 0
     }
   }
 }

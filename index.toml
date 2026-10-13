@@ -609,8 +609,12 @@ file = "config/create_enchantment_industry-common.toml"
 hash = "c758403d22c507ca6c7c3e52460ac2668127b9a20ee2cd85e0e2aed1d252f35b"
 
 [[files]]
-file = "config/create_enchantment_industry-server.toml"
+file = "config/create_enchantment_industry-server-1.toml.bak"
 hash = "b87028c1e17b49836c0b76266af22a3790e39c668cb4ace199aff7292163f825"
+
+[[files]]
+file = "config/create_enchantment_industry-server.toml"
+hash = "9920298fd39d60a55eeba4bf00036c48c26ca67028f53d002f39e5f3d9113f1c"
 
 [[files]]
 file = "config/create_mobile_packages-client.toml"
@@ -625,8 +629,12 @@ file = "config/create_processing-common.toml"
 hash = "6cc5fe39f7ee8a4bc66d7668b06163aa556f7ecc32050f85ee41165389a9af53"
 
 [[files]]
-file = "config/createaddition-common.toml"
+file = "config/createaddition-common-1.toml.bak"
 hash = "a9ac73605dc02f11a5e5a059f44e15e389d5e16d98b6bfbebaac22cff42891d4"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "084dce8fbf4639f4cc9c7037a13d8c72e2e8bb3acd16e7762842ec70fac77371"
 
 [[files]]
 file = "config/createdieselgenerators-client.toml"
@@ -639,6 +647,10 @@ hash = "be7551d5b0d7f454c5fb33539429e3a389343f80eb2af6de95bde442a13b9c92"
 [[files]]
 file = "config/createdieselgenerators-server.toml"
 hash = "674cc1290b257251ed29107ce56e5059152ee7f75f8d13d5739d61a34db58486"
+
+[[files]]
+file = "config/createfactory-common.toml"
+hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
 
 [[files]]
 file = "config/creativecore-client.json"
@@ -769,8 +781,12 @@ file = "config/euphoria_patcher/settings.toml"
 hash = "9e32f003a7d8eecb4af11d557aca88afe0761e77db69e416df3b68316dd6ce39"
 
 [[files]]
+file = "config/exmi/enable_config.json"
+hash = "915f23f69f114854e4e067dc463b2f71370cf8d291c0611decf50655f5054e47"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "9fd33201d48166f53dee9a0ebaddae46aa42ff5c091df746ceb76420b3963064"
+hash = "c8a85c08226c758f0ebf4b23265218d740b1cd1396b006f3084784723eb123c6"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -881,6 +897,14 @@ file = "config/inventoryhud-client.toml"
 hash = "7910902c3e6605a2ea1a02d9bc782bfc9f22ba3c2dc512004986ded2df480863"
 
 [[files]]
+file = "config/inventoryprofilesnext/181.97.249.170/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/181.97.249.170/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/inventoryprofilesnext/Mundo de Pruebitas de Mods/prev-villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
@@ -910,7 +934,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "8850b0e4d050b7622728fdc633e45cddf26b9d5ced2988a72433e48e28f5fba8"
+hash = "f7cf7309db4d8d444b9e0482d7c529c8574c10fefc970b8a682f254715ec616b"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -1106,7 +1130,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/patpat/patpat/patpat-client-stats.json5"
-hash = "bb79f4684085aa86ba74df88f36772b2e6f2bb9514832ba43595653fa6afd171"
+hash = "8881829a646584b1df7196eaa5e4024872ef86ad3c7b172cd5517ac7daa8bb6e"
 
 [[files]]
 file = "config/patpat/patpat/patpat-client.json5"
@@ -1127,6 +1151,22 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/patpat/patpat/proximity_packet_servers_whitelist.txt"
 hash = "f7addbe1a44760c8f3242e202c7d24a56bafcbc23c1f7b8e25b20bdbf5187cfe"
+
+[[files]]
+file = "config/pehkui-client.toml"
+hash = "d6a05a680afa06a7de77bee6d147ae5a629693843d53ca22600fcd17fbc87111"
+
+[[files]]
+file = "config/pehkui-common.toml"
+hash = "22981c471442655695fab8120f105faa765a067b39782ef162743bfb7ec03b64"
+
+[[files]]
+file = "config/pehkui-server.toml"
+hash = "284f4a9c881016e1302487e26d60085971d5fb1087d5e2a215523c56e029de3e"
+
+[[files]]
+file = "config/physics-iteam-drop.json"
+hash = "047e23e59c90abfc6c0354d0f7281c35b2a5afb5e048e97066df0842650ca381"
 
 [[files]]
 file = "config/playerrevive-client.json"
@@ -1190,7 +1230,7 @@ hash = "4933acb18663de7cab3fb632f54b1931bbceac7cda0ef47ef34c5d56c210c63f"
 
 [[files]]
 file = "config/rts_building/rtsbuilding-client-ui.rtsd"
-hash = "7c51372c3a746663931e53f2d177d155f0d894637f360922c50e824759e38167"
+hash = "227bb9e251115e388b523e6fa074c3d36dfaa0c833b902496601dfc39ddd6837"
 
 [[files]]
 file = "config/rts_building/rtsbuilding-client.toml"
@@ -1302,7 +1342,7 @@ hash = "20fb36eebeb21c9c94746da542234dda7af5d438dcecd1957b32d925d02b622e"
 
 [[files]]
 file = "config/tabtweaks.json"
-hash = "198686e9a3707e4c1c7c7f37d859016790c195bc31f010c66de8ef9a841b598c"
+hash = "4f7a0ce9a9950808a23e6680e4269f3dbce4589686fe25d3e7764ba4abcc7808"
 
 [[files]]
 file = "config/tectonic.json"
@@ -1326,7 +1366,7 @@ hash = "961a398de15c5db5ce71a268f00d50d1a668b64bd09797501ce157b649362e82"
 
 [[files]]
 file = "config/travelersbackpack-server.toml"
-hash = "917afe7120105be759752311362b72d534cd6663d7ea923f33b0e47057b98151"
+hash = "982822ef7b8962d09d0bd41d400ac455261eb4e85f6715a988c46cbcd8c3e55c"
 
 [[files]]
 file = "config/trender.json"
@@ -2244,6 +2284,11 @@ hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
 file = "mods/respawning-animals.pw.toml"
 hash = "3e88d197a1ef48696cee4a7691155b50c27b8dd3bf14a1872780918e2362a4be"
 metafile = true
@@ -2361,6 +2406,11 @@ metafile = true
 [[files]]
 file = "mods/the-afterdark.pw.toml"
 hash = "79c500952f474fcba455c37f9ec62f4ed2f8222de607c8269c0fef50f4b54ad6"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "afee8d508e5bee4073a0b328441e8948ade246e8fab109b988bd0bb2c5853175"
 metafile = true
 
 [[files]]
@@ -2541,7 +2591,3 @@ hash = "83554aeb4bc9b981f0a5bbd717270251df7e3ad4beb2bfaa38e2398e6961f6ea"
 [[files]]
 file = "resourcepacks/§9Drodi's Illagers x FA [v5.2].zip"
 hash = "b058e6ea7b4b8492efdef03115d84043b11ee2d33e263f8610aae189e771e416"
-
-[[files]]
-file = "resourcepacks/§eEatingAnimationsMoreCompat1.20-26.x (1).zip"
-hash = "8ab5f6621967d9e21711de33ae055048a9fa8e8ac5b2099c7b0b2c5dd8f9223f"

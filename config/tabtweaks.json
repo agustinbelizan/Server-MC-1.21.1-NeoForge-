@@ -16,7 +16,7 @@
 	"scalePingDisplay": false,
 	"hideFalsePing": false,
 	"tabScale": 1.0,
-	"moveTabDown": 10.0,
+	"moveTabDown": 85.0,
 	"moveTabHorizontal": 0.0,
 	"moveTabBelowBossBars": true,
 	"tabHeaderColor": -2147483648,
