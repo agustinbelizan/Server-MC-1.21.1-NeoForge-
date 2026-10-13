@@ -27,15 +27,11 @@
   "version": "1.0.1",
   "main": {
     "modEnabled": true,
-    "debugLogEnabled": false,
+    "debugLogEnabled": true,
     "patCombination": {
-      "attributeKey": {
-        "id": 340,
-        "type": "keysym"
-      },
       "key": {
-        "id": 1,
-        "type": "mouse"
+        "id": 75,
+        "type": "keysym"
       }
     }
   },
