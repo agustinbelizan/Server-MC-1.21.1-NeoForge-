@@ -26,7 +26,7 @@ hash = "496e0dc3aae66369be68a810f9bb3a24c84c335aad2157d595a6bdb9e49765b0"
 
 [[files]]
 file = "config/alexscaves-general.toml"
-hash = "6858891962ef4912f82743ca313c95ec83b59064dcac0e4ff7121162ea642db9"
+hash = "f3eda55afb129bdb21484b886267a006a129973faae067d64c06dc1c131fd3a4"
 
 [[files]]
 file = "config/alexscaves_biome_generation/.version"
@@ -786,7 +786,7 @@ hash = "915f23f69f114854e4e067dc463b2f71370cf8d291c0611decf50655f5054e47"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "c8a85c08226c758f0ebf4b23265218d740b1cd1396b006f3084784723eb123c6"
+hash = "6872cb9e3187c85d1de3549c7dec5b5147353fd1cdd4bea989fb114680601d8a"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -917,6 +917,10 @@ file = "config/inventoryprofilesnext/Mundo nuevo/villager-trading-config-v2.json
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
+file = "config/inventoryprofilesnext/Spawn Server/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
@@ -929,12 +933,16 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "ee8807042bdf363932341b6dee9d2ec45f6d607523284bd25f108f25c6937b8d"
 
 [[files]]
+file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f7cf7309db4d8d444b9e0482d7c529c8574c10fefc970b8a682f254715ec616b"
+hash = "b6b8fbadcd6aa930e27135a1893b83c39160999c43bd308f2d1a0c540cbc37a4"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -1130,7 +1138,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/patpat/patpat/patpat-client-stats.json5"
-hash = "8881829a646584b1df7196eaa5e4024872ef86ad3c7b172cd5517ac7daa8bb6e"
+hash = "ba76514858b144693e5b91da378a6e42feeb61b904f22501236df3fc34ceb172"
 
 [[files]]
 file = "config/patpat/patpat/patpat-client.json5"
@@ -1353,6 +1361,30 @@ file = "config/terrablender.toml"
 hash = "04bef4d37a9cc5b2ff04aa81447429dec0d1012d87dcf04e6b2f687b9a397913"
 
 [[files]]
+file = "config/the_bumblezone/bee_aggression.toml"
+hash = "3e1760138f692eac66fe60dc5f90dfa41944c0e803df490866c67606aa1d7c0e"
+
+[[files]]
+file = "config/the_bumblezone/client.toml"
+hash = "d37adf016e299b96ee474eb4e3648140167d8d12e6e086d3cf77bb24a27e1714"
+
+[[files]]
+file = "config/the_bumblezone/dimension.toml"
+hash = "83588b4c725e6459573d3e8f9ac0694c4d4757d4e14f8cba2844f89686ba80f5"
+
+[[files]]
+file = "config/the_bumblezone/general.toml"
+hash = "0970d89fc4e408ed0f8bdaaff77df5b486b5d5cee929a1ca5d9fdb7231796c8d"
+
+[[files]]
+file = "config/the_bumblezone/mod_compatibility.toml"
+hash = "0c86d196efa1306eea31dc6312c372e70697963841c1c71368546eede6e50e44"
+
+[[files]]
+file = "config/the_bumblezone/worldgen.toml"
+hash = "89eca1f77a70114ff7012ddfaac4329cdfbe31224ed52f0664c49b662e2c9182"
+
+[[files]]
 file = "config/transition.json"
 hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
 
@@ -1366,7 +1398,7 @@ hash = "961a398de15c5db5ce71a268f00d50d1a668b64bd09797501ce157b649362e82"
 
 [[files]]
 file = "config/travelersbackpack-server.toml"
-hash = "982822ef7b8962d09d0bd41d400ac455261eb4e85f6715a988c46cbcd8c3e55c"
+hash = "917afe7120105be759752311362b72d534cd6663d7ea923f33b0e47057b98151"
 
 [[files]]
 file = "config/trender.json"
@@ -1657,6 +1689,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/borninchaos.pw.toml"
+hash = "a2c8cf1a4fc5faed55ca1f8d04f7abaa1c8282b9bcd70e1b3e607181923f48d9"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
@@ -1784,6 +1821,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "63d1560de24b53cad7052d19c1a44b4eab64ad9f696d01c9f2a72fccd5540557"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "8e63fec28c22201636bd56f0170e9b85e26b558c4ec7215e068f53d3518dc5bb"
 metafile = true
 
 [[files]]
@@ -2064,6 +2106,11 @@ metafile = true
 [[files]]
 file = "mods/improved-pillager-outpost.pw.toml"
 hash = "b26d5949e773596d56bb310234f8682f8a9dafd377b2b5fb1bbdebb372e2a8fb"
+metafile = true
+
+[[files]]
+file = "mods/infested-swarms-and-spiders.pw.toml"
+hash = "cfd602524a4bab2229eaa7264bcc214b633d6fa615f8e0a7318f1a91761532ef"
 metafile = true
 
 [[files]]
@@ -2446,6 +2493,11 @@ hash = "5f34acf1abde884e2e955103bcadfbd03652e0cd1d3e224ced4c4a1e9e1664c6"
 metafile = true
 
 [[files]]
+file = "mods/stormies-spiders.pw.toml"
+hash = "7eb4975c58555111a7ddbc2d01b5d55a51585bf55b0145a6de1b6d90ef1a056c"
+metafile = true
+
+[[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "a66da60b40337e8bb57d81aef0f0c168771f2c6d8ae9d5e4af24031da2320795"
 metafile = true
@@ -2533,6 +2585,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "cfc3d0abc9c387a708d246bef5f90481cd62adee3b6ed7e0932042de2bdbcc3e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "de999f6cc4c2f344e324b4f331fa9767844c31463c6e8066fcd67b613338ab8c"
 metafile = true
 
 [[files]]

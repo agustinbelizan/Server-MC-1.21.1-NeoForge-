@@ -1,6 +1,6 @@
 {
   "totalPatsCounter": {
-    "pats": 108
+    "pats": 121
   },
   "entities": {
     "graveyard:nameless_hanged": {
@@ -16,7 +16,7 @@
       "pats": 11
     },
     "minecraft:cow": {
-      "pats": 27
+      "pats": 40
     },
     "alexsmobs:banana_slug": {
       "pats": 0

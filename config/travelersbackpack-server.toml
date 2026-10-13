@@ -27,9 +27,9 @@
 		#Prevents backpack disappearing in void, spawns floating backpack above minimum Y when player dies in void
 		voidProtection = true
 		#Places backpack at place where player died
-		backpackDeathPlace = false
+		backpackDeathPlace = true
 		#Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
-		backpackForceDeathPlace = false
+		backpackForceDeathPlace = true
 		#Allows sleeping in a sleeping bag without the need to unequip and place the backpack on the ground
 		quickSleepingBag = true
 		enableSleepingBagSpawnPoint = false
