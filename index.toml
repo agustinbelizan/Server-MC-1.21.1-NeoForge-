@@ -1445,6 +1445,98 @@ file = "datapacks/welcome_epic.zip"
 hash = "6709a78af9346d252b3451cfb1a948361a609e5cb9c53dbb082d704f2d994503"
 
 [[files]]
+file = "emotes/Apologize on your knees.emotecraft"
+hash = "32ff9d45562921c75775366e57ad3c1bdf5ab6f736ee1a9f4bec273e552993e5"
+
+[[files]]
+file = "emotes/Breakdance Flare.emotecraft"
+hash = "84b18d6f70db36a3f145c40c82aa8c3888646b2a9aa29f587417436be5485b1d"
+
+[[files]]
+file = "emotes/Depression.emotecraft"
+hash = "ebd5eb30b28799aebeadde6cf2f933cf93391bef0725d66b9082ecb55bbb87c4"
+
+[[files]]
+file = "emotes/Fight on penis swords.emotecraft"
+hash = "9fda9a35856b1b52d675166cf513f7cf1201b7152d6599aa94268cb2428cf248"
+
+[[files]]
+file = "emotes/Fuck someone.emotecraft"
+hash = "e49e52f893ae1ff21f43785d5eae2a96617391354e1821ed33dbe807787874c8"
+
+[[files]]
+file = "emotes/HELICOPTER HELICOPTER.emotecraft"
+hash = "5b8a4fb8aff07509453e6d4a97b9ee40b6b32fe189c70d285ab8e1d6b25e6459"
+
+[[files]]
+file = "emotes/Hug.emotecraft"
+hash = "e414b3ac9577acb4781afde57b458c98b521b74848cf6c0515b821822800225d"
+
+[[files]]
+file = "emotes/Jerking off.emotecraft"
+hash = "2393597505057ffd8b0cc2f27632a562c7d7db5e38c96ab3c59bf8a2f6c55cb9"
+
+[[files]]
+file = "emotes/Laugh a lot (1 version).emotecraft"
+hash = "bd5b6ddcfcf22e7f7fa9bad94ca2a35a8438ee881d30c4c21c86cb08e5ca0b57"
+
+[[files]]
+file = "emotes/Love.emotecraft"
+hash = "c6730b74d63d0ba24ce5219224d6cf2bb8153d7ecad039b667ca617d3291308d"
+
+[[files]]
+file = "emotes/Macarena (Dance).emotecraft"
+hash = "63d609238cf5527f872ca43e2d5aeb1ec8f75cf5b9a4ceba6e314e9ceead08b3"
+
+[[files]]
+file = "emotes/Meditar.emotecraft"
+hash = "a71b2b32e383a8eb5404125c41881d19c11bc3f3bdd06cf5a41d19921f5e3f4b"
+
+[[files]]
+file = "emotes/Naruto Run (Movement) (Multiverse) (Naruto).emotecraft"
+hash = "3d1d630b5f52d1abe9dee37302dac9dc1cb8f11163734fee75da09cb210dff0c"
+
+[[files]]
+file = "emotes/OmniMan Thicc Sit Permanent.emotecraft"
+hash = "024d486eacc272917550a3a9564ff20e713b55fa0eb7f4183c267436db78c0ac"
+
+[[files]]
+file = "emotes/Push-ups (Sport).emotecraft"
+hash = "af3f8f8d9d2955df9812c6450b26974b83f46fda2ab835347a09a4fd9d69bb92"
+
+[[files]]
+file = "emotes/Reverential Bow.emotecraft"
+hash = "447e5bb8d26e781167bb7ab4c8e3bfab9e0beadcb108377633688e780c19e523"
+
+[[files]]
+file = "emotes/Sit Adorably.emotecraft"
+hash = "d44fbe5853eec81a551424b525e4b3f3eef334b56bd88f62878b763399305d41"
+
+[[files]]
+file = "emotes/Sluggish Walk (Movement).emotecraft"
+hash = "cb246af1254dc289c6b4f52f12a4fff225bcc937c80f0e77a9c312f7cc3ccc69"
+
+[[files]]
+file = "emotes/Sobbing.emotecraft"
+hash = "a7a70bd0474b1b0f3ad7206490856813d6f4005851fca2b84aa09a83ce4b4e80"
+
+[[files]]
+file = "emotes/Twerk (Dance).emotecraft"
+hash = "8753886699b9577336677587642a9d52f6a62f98443dbbde93dcb2de778ba68d"
+
+[[files]]
+file = "emotes/Waltz (Dance) (1st Partner) (Paired emote).emotecraft"
+hash = "ba2677067592246a220a667b4bf2e9adb7002cf6a6d8b7ce3ff65f5c2cc87405"
+
+[[files]]
+file = "emotes/Waltz (Dance) (2nd Partner) (Paired emote).emotecraft"
+hash = "2ee5cc7ef5cf2c2c9f010faf9603c5669e71dd5f307a55d51111003aff8bd6d0"
+
+[[files]]
+file = "emotes/become helicopter.emotecraft"
+hash = "b389681f27ad3fb98c7851389e2e5c03db0341a62d1f72a1074cb907cd420e49"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
