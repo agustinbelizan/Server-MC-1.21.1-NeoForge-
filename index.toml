@@ -798,7 +798,7 @@ hash = "a0867628abd6f9e052a618e61cab635a2fc04f8b2cbf93419857ba8ecec21e25"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3a8aec36397e25f18d31135a09525303d6e4b2262d0928ad407d07bae5baa46a"
+hash = "466569b5bc394427bd59547e5cb8a819c2e5ccceaefc3cf99f80925df5cd7173"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -859,6 +859,14 @@ hash = "c427871edf0f085393425997b7ffcd0c2e54278376dc9f7390619a21bc3264d7"
 [[files]]
 file = "config/gottschcore-common.toml"
 hash = "fb087051102d4edf832a74a18cf0a0e7f8ceca7b652ac4c1e21c3ed1c7972135"
+
+[[files]]
+file = "config/gravestone-client.toml"
+hash = "6979ddda3b2c727de8a6bf2bdc3da67abeda22072c92ecfc1406f389e4eeebb8"
+
+[[files]]
+file = "config/gravestone-server.toml"
+hash = "0e7071db71afe75e9a352c64dff40a2b12c2aae26ed418c413d88a3e9b6ca1dd"
 
 [[files]]
 file = "config/graveyard.toml"
@@ -958,7 +966,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a4556aa94658469725217546cc24a9755664770c72e61581e00023ab75082286"
+hash = "05695a5c881b4b4f9120077521178557ca521426abc4a1d39280ed269213ba4f"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -982,11 +990,11 @@ hash = "90440c1e96b6e947068a3f326f2cd923f3cfdf38dc63fc3176ba8f9dc2c5754d"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "3714dec717ce7425afcba5060d52873c8889deb0b813ec01009ffab213b36f0e"
+hash = "b24140eb3503ebcf884bd54080a45cd4cbc4841f4346adef01360f5963dc6299"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "7a200594af66ed6a03c16416c74d3b48ea31c80526e49b119bd825a79b4380cb"
+hash = "f37b288f2064d391c1df82a1ae78270c3f07231c1d1255e74d0a97c2b4f75a09"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -1254,7 +1262,7 @@ hash = "40904e834993b3969e356650747d1d22f6a3b8ce9d1a38ea069c19f26d1bede7"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1cab1e1beef2a63354027d6a5f8ce299fee685dd5387d7fd21125c487c50c4c1"
+hash = "5efc7050bcdea3036a44e16bbf2f5b14a268ef65092c12a4026a433d2c0fe0c3"
 
 [[files]]
 file = "config/rightclickharvest.json5"
@@ -2042,7 +2050,7 @@ hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "9762abe319c8c4c43e7f53bc16a05db438d492e5f1f828cb2b73d8898f965764"
+hash = "4c7b80794636b069d8ea73df0c9776276aaa77df73911630eecbb15664aaac9c"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -2065,6 +2073,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "config/yigd.json"
+hash = "7c24ba2917d6b644669392943d4f531c176fb998c7c02b805b2cd32cf13f4bbd"
+
+[[files]]
 file = "datapacks/MuteRemaginedCrafting.zip"
 hash = "db31cd79059350df7b87ed0ed0510a3a8a3731a3cead55fe323c6c6857c4238b"
 
@@ -2073,7 +2085,7 @@ file = "datapacks/WaystoneModified.zip"
 hash = "7302415168d9df09ec98f31083e3b07bc7f5c3661a233df93194f19caaca8f50"
 
 [[files]]
-file = "datapacks/welcome_epic.zip"
+file = "datapacks/Welcome.zip"
 hash = "6709a78af9346d252b3451cfb1a948361a609e5cb9c53dbb082d704f2d994503"
 
 [[files]]
@@ -3068,11 +3080,6 @@ hash = "98ac007465eca5728fdcfda196966022ea8ca288e631b631861b5208b9a94562"
 metafile = true
 
 [[files]]
-file = "mods/shades.pw.toml"
-hash = "735d8b8d3783582d42d770a7de51543baadec4bba20c6ce12eb16aafdd7b05e0"
-metafile = true
-
-[[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
@@ -3287,6 +3294,10 @@ hash = "0b0d87c935ea132df1fc3c7e0127072135e070aab3b2ac3ad7386924f4b0e87c"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.10.4.zip"
 hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+
+[[files]]
+file = "resourcepacks/GraveStone_SoloCabeza.zip"
+hash = "39dcbe766125b884bd39b704f6dcf012884727ed1ce565d547ec3dd870272b9d"
 
 [[files]]
 file = "resourcepacks/Icon Fresh 1.2.zip"

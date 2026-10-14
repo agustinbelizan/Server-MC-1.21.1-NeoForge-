@@ -1,3 +1,37 @@
 {
-  "schema_version": "2"
+  "schema_version": "2",
+  "default_packs": [
+    "file/Enchantment Outlines.zip",
+    "file/Icon Fresh 1.2.zip",
+    "file/Re-covered.zip",
+    "file/Shinier Tools.zip",
+    "file/SodiumTranslations.zip",
+    "file/enchant icons 1.21 v1.3.zip",
+    "file/flowering-crops-1-21.zip",
+    "file/FreshAnimations_v1.10.4.zip",
+    "file/FA+Classic_Horses-v1.5.zip",
+    "file/FA+Details-v2.2.1.zip",
+    "file/FA+All_Extensions-v1.8.1.zip",
+    "file/FA+Creepers-v2.1.zip",
+    "file/FA+Spiders-v2.2.zip",
+    "file/FA+Quivers-v2.2.zip",
+    "file/FA+Player-v1.1.zip",
+    "file/FA+Emissive-v1.6.zip",
+    "file/§2Drodi's Villagers FA [V2.8].zip",
+    "file/§9Drodi's Illagers x FA [v5.2].zip",
+    "file/§4Drodi's Blazes FA [V1.2].zip",
+    "file/§4Drodi's Slimes FA [V1.1].zip",
+    "file/Fresh Patch - Variants and Ventures.zip",
+    "file/Fresh Patch 2.0 - Boy Why You So Ears.zip",
+    "file/§6Immersive§8_§6Interfaces§8.zip",
+    "file/§6Immersive_Interfaces_Farmersdelight1.20-26.x.zip",
+    "file/§6Immersive§8_§6Interfaces§8_§6Curios_1.20-26.x.zip",
+    "file/§6Immersive§8_§6Interfaces§8_§6EasyMagic.zip",
+    "file/§6Immersive§8_§6Interfaces§8_§6TravelerBackpack.zip",
+    "file/§6Immersive§8_§6Interfaces§8_§6EMI§8.zip",
+    "file/EatAnimation Farmer's Delight's Compat 1.20-26.x.zip",
+    "file/cubic-sun-moon-v1.8.5.zip",
+    "file/Fast Better Grass.zip",
+    "file/GraveStone_SoloCabeza.zip"
+  ]
 }

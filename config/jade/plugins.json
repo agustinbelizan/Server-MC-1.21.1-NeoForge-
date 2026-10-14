@@ -100,6 +100,9 @@
   "waystones": {
     "waystone": true
   },
+  "gravestone": {
+    "grave": true
+  },
   "item_descriptions": {
     "block_descriptions": true,
     "entity_descriptions": true
