@@ -1,6 +1,6 @@
 {
   "totalPatsCounter": {
-    "pats": 146
+    "pats": 245
   },
   "entities": {
     "graveyard:nameless_hanged": {
@@ -12,11 +12,17 @@
     "enderzoology:owl": {
       "pats": 10
     },
+    "minecraft:cat": {
+      "pats": 4
+    },
     "minecraft:cow": {
       "pats": 40
     },
     "alexsmobs:banana_slug": {
       "pats": 0
+    },
+    "alexsmobs:tiger": {
+      "pats": 80
     },
     "minecraft:fox": {
       "pats": 8
@@ -26,6 +32,12 @@
     },
     "alexsmobs:capuchin_monkey": {
       "pats": 11
+    },
+    "minecraft:pig": {
+      "pats": 1
+    },
+    "minecraft:sheep": {
+      "pats": 10
     }
   }
 }

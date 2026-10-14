@@ -30,7 +30,7 @@
     "debugLogEnabled": true,
     "patCombination": {
       "key": {
-        "id": 75,
+        "id": 81,
         "type": "keysym"
       }
     }
