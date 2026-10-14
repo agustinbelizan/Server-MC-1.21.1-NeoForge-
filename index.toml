@@ -798,7 +798,7 @@ hash = "a0867628abd6f9e052a618e61cab635a2fc04f8b2cbf93419857ba8ecec21e25"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "466569b5bc394427bd59547e5cb8a819c2e5ccceaefc3cf99f80925df5cd7173"
+hash = "1f5a2dc829e680b3bfc209c7c17593e7ef800366d85aba62fb133fa3405d3fe1"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -966,7 +966,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "05695a5c881b4b4f9120077521178557ca521426abc4a1d39280ed269213ba4f"
+hash = "95d852f268e56405091be60b2ca394c7956b73db8402d193ce24c27f49f34917"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -1470,7 +1470,7 @@ hash = "8bb5652a1f3c01374a871b1e4f0919afdb7a33b98923bfbe1d33ddfd61d07c81"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "ee1a603d3570d34fa40033c40c586bacc5bafcd0e06dab7a0189109ec9a4f243"
+hash = "939193c2447e49f7171ade73a38273d1b6e2ecb967712849f0abdf9031ae9294"
 
 [[files]]
 file = "config/whitenoise-client.toml"
@@ -2050,7 +2050,7 @@ hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "4c7b80794636b069d8ea73df0c9776276aaa77df73911630eecbb15664aaac9c"
+hash = "69b64ada87ab87b51a721fc1643e4250affecb764c183e102afd64cd052ec96d"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -2965,6 +2965,11 @@ hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
+file = "mods/player-head-on-death.pw.toml"
+hash = "4d728f45098e73d6f57f2d08ac0daed5fac62bedc36b9307237e4baaa4256ffc"
+metafile = true
+
+[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "2fce8261a3f3f1c97232926429dfc4aa7ba871a04ce4fde8d87f21404a6ac857"
 metafile = true
@@ -3102,6 +3107,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
+
+[[files]]
+file = "mods/soul-gravestone.pw.toml"
+hash = "c84ab4fd11f3fe202980f66c4a8cf52bac619e1495213886d727f0949447cd6b"
 metafile = true
 
 [[files]]
