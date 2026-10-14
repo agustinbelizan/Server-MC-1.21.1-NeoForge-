@@ -841,14 +841,6 @@ file = "config/fpsdisplay.cfg"
 hash = "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8"
 
 [[files]]
-file = "config/ftbessentials.snbt"
-hash = "f55ca157708b8b73fe70763ac611b9d3552ffe0eccf57ef0e754bec91ac096d6"
-
-[[files]]
-file = "config/ftblibrary-client.snbt"
-hash = "8db7963475b84805334f6ffa51e1c5b77bd37924c5e0f5b46a9d9632d6f44a2b"
-
-[[files]]
 file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
@@ -859,14 +851,6 @@ hash = "c427871edf0f085393425997b7ffcd0c2e54278376dc9f7390619a21bc3264d7"
 [[files]]
 file = "config/gottschcore-common.toml"
 hash = "fb087051102d4edf832a74a18cf0a0e7f8ceca7b652ac4c1e21c3ed1c7972135"
-
-[[files]]
-file = "config/gravestone-client.toml"
-hash = "6979ddda3b2c727de8a6bf2bdc3da67abeda22072c92ecfc1406f389e4eeebb8"
-
-[[files]]
-file = "config/gravestone-server.toml"
-hash = "0e7071db71afe75e9a352c64dff40a2b12c2aae26ed418c413d88a3e9b6ca1dd"
 
 [[files]]
 file = "config/graveyard.toml"
@@ -1065,10 +1049,6 @@ file = "config/lithostitched.json"
 hash = "43e35f01fceb40ba4689584c447ae842edf22fe86131f30f5108aae55b1b5ca6"
 
 [[files]]
-file = "config/losttrinkets-common-1.toml.bak"
-hash = "fc6bad37c2f1f8b8845b11adf510e6929d790b3d7c47e811ff37cd0295aac633"
-
-[[files]]
 file = "config/losttrinkets-common.toml"
 hash = "1bac2e11328730d14fe45f3bbc55a189440f5e330a73d22927ce98fa17a74886"
 
@@ -1262,7 +1242,7 @@ hash = "40904e834993b3969e356650747d1d22f6a3b8ce9d1a38ea069c19f26d1bede7"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5efc7050bcdea3036a44e16bbf2f5b14a268ef65092c12a4026a433d2c0fe0c3"
+hash = "6e69fd5640c5811f603ffbef411cc2a4c9115d0d65e4e0a2af482a4f70fe5eb3"
 
 [[files]]
 file = "config/rightclickharvest.json5"
@@ -1297,14 +1277,6 @@ file = "config/securitycraft-server.toml"
 hash = "3bc7c384f456a62d04bdc52c86ff1ddb1bf9874c18a8ac0d5e414ec4d1590fce"
 
 [[files]]
-file = "config/shades-client.toml"
-hash = "a10f08d384fcd5e8294c86c0cb45d8d36a7d9b7ddf4e7b26003d4cb5bf339d43"
-
-[[files]]
-file = "config/shades-server.toml"
-hash = "b968d1c42c61abd31d1f133e667cb5848f24563cef5f1437482569bbe8eb9f4b"
-
-[[files]]
 file = "config/shouldersurfing-client.toml"
 hash = "c1f09a771243a708f0ca0c0d5c12e37cd08a9dd6b27721dd19340c3529242323"
 
@@ -1317,10 +1289,6 @@ file = "config/skeletonaifix-server.toml"
 hash = "bd680afac448c266db2d2b8407e0edac8fdaac99dfb62fef575ca0c9631cbad5"
 
 [[files]]
-file = "config/skinlayers.json"
-hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
-
-[[files]]
 file = "config/sodium-fingerprint.json"
 hash = "4f2b96306b7afecaf537dab807c3b4b55ee3bd8ee958d2edfc71aff89cb24b60"
 
@@ -1331,22 +1299,6 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 [[files]]
 file = "config/sodium-options.json"
 hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
-
-[[files]]
-file = "config/sophisticatedbackpacks-common.toml"
-hash = "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
-
-[[files]]
-file = "config/sophisticatedbackpacks-server.toml"
-hash = "91694a79fd7d4bc5833746cacd5c998f83373f9b00da7efd5dbde86478e1fc41"
-
-[[files]]
-file = "config/sophisticatedcore-client.toml"
-hash = "467c9ffc84322873121a2e109258245030ec4d0608b7181a739681ce685a63c9"
-
-[[files]]
-file = "config/sophisticatedcore-common.toml"
-hash = "fcc354137e3a5b2b19876e38c2a115b7f1da04b39d539d83cbc80f25429d5ed5"
 
 [[files]]
 file = "config/stoneworks-common.toml"
@@ -2965,11 +2917,6 @@ hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
-file = "mods/player-head-on-death.pw.toml"
-hash = "4d728f45098e73d6f57f2d08ac0daed5fac62bedc36b9307237e4baaa4256ffc"
-metafile = true
-
-[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "2fce8261a3f3f1c97232926429dfc4aa7ba871a04ce4fde8d87f21404a6ac857"
 metafile = true
@@ -3107,11 +3054,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
-metafile = true
-
-[[files]]
-file = "mods/soul-gravestone.pw.toml"
-hash = "c84ab4fd11f3fe202980f66c4a8cf52bac619e1495213886d727f0949447cd6b"
 metafile = true
 
 [[files]]
@@ -3304,10 +3246,6 @@ hash = "0b0d87c935ea132df1fc3c7e0127072135e070aab3b2ac3ad7386924f4b0e87c"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.10.4.zip"
 hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
-
-[[files]]
-file = "resourcepacks/GraveStone_SoloCabeza.zip"
-hash = "39dcbe766125b884bd39b704f6dcf012884727ed1ce565d547ec3dd870272b9d"
 
 [[files]]
 file = "resourcepacks/Icon Fresh 1.2.zip"
