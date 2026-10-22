@@ -2632,6 +2632,11 @@ hash = "db51a17b26c0d3c779740a454278ba1fcd1a558c8b5b2196c2c7972ea38f3d2c"
 metafile = true
 
 [[files]]
+file = "mods/horizontal-glass-panes.pw.toml"
+hash = "54aa461c33bf3bb5c65a3e5ccd9194195809c54a8cf1ac6fbef50e283692d05a"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
