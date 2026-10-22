@@ -2033,6 +2033,10 @@ file = "datapacks/MuteRemaginedCrafting.zip"
 hash = "db31cd79059350df7b87ed0ed0510a3a8a3731a3cead55fe323c6c6857c4238b"
 
 [[files]]
+file = "datapacks/SpawnPrincipal.zip"
+hash = "d664167958e57e8902f7754a2c9dada89299ef9570da4952fcbe3fa95c9b2da0"
+
+[[files]]
 file = "datapacks/WaystoneModified.zip"
 hash = "7302415168d9df09ec98f31083e3b07bc7f5c3661a233df93194f19caaca8f50"
 
@@ -2325,6 +2329,11 @@ metafile = true
 [[files]]
 file = "mods/convenient-effects.pw.toml"
 hash = "b50cea20e5d158440526ee78feaf57436acf64a581e58d920814eca5dce011c6"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "7b4e74ebfc923568149d8a27a90217788713f184af1333d2f93708dfbab83dfd"
 metafile = true
 
 [[files]]
@@ -2893,6 +2902,11 @@ hash = "7611d9501188ec56d36bec90c7c9cf405e01bc4d2c241c00914687d726c51296"
 metafile = true
 
 [[files]]
+file = "mods/pane-in-the-glass-renewed.pw.toml"
+hash = "ce33c9117386850581353fd980a77f3c15125b6199fad03de9c3a67dd91e3b79"
+metafile = true
+
+[[files]]
 file = "mods/patpat.pw.toml"
 hash = "0b24c1d1c740b7b5dfba1afc97c9fadd0e6fce127de8ed8d5e3b568f57bed9ac"
 metafile = true
@@ -3179,11 +3193,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
-metafile = true
-
-[[files]]
-file = "mods/yigd.pw.toml"
-hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
 
 [[files]]

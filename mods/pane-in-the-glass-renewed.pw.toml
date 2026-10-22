@@ -1,0 +1,13 @@
+name = "Pane in the Glass: Renewed"
+filename = "PaneInTheGlass-renewed-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53de0144afdde805df93b0dbdfd0949c53d8189f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7379962
+project-id = 1413603
