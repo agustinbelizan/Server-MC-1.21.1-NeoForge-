@@ -2137,6 +2137,11 @@ file = "emotes/become helicopter.emotecraft"
 hash = "b389681f27ad3fb98c7851389e2e5c03db0341a62d1f72a1074cb907cd420e49"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
@@ -2632,11 +2637,6 @@ hash = "db51a17b26c0d3c779740a454278ba1fcd1a558c8b5b2196c2c7972ea38f3d2c"
 metafile = true
 
 [[files]]
-file = "mods/horizontal-glass-panes.pw.toml"
-hash = "54aa461c33bf3bb5c65a3e5ccd9194195809c54a8cf1ac6fbef50e283692d05a"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
@@ -2659,6 +2659,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-hotbar.pw.toml"
 hash = "b4a0463eef9dc6370f2e9e6d08f266c93134f58e3f14b093aab8a2ea463772aa"
+metafile = true
+
+[[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "0c9eb7002bd08576fb9b666cfaa103098eaf1480fd553ba3471b9568ac145e37"
 metafile = true
 
 [[files]]
@@ -2809,6 +2814,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
+metafile = true
+
+[[files]]
+file = "mods/mc2-interactive-foliage.pw.toml"
+hash = "84187d5a17d81081749fa21f7e5aa8af1a1bd82a78aff5c7d25cdac62d707978"
 metafile = true
 
 [[files]]
@@ -3071,6 +3081,11 @@ hash = "96e51a1ab6e2c52235f335c20bee2051128de204437f80ada89c599c267fe86a"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
@@ -3108,6 +3123,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "68ef590d29c127c6b38d81662edfa45a2e1339d38f60aee345e31164c7c10017"
+metafile = true
+
+[[files]]
+file = "mods/sway.pw.toml"
+hash = "d64f01d1be1eae8017715be1ba7d766975df58c87da9eb8814329292aba01c8f"
 metafile = true
 
 [[files]]
