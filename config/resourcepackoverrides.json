@@ -1,5 +1,5 @@
 {
-  "schema_version": "2",
+  "schema_version": 2,
   "default_packs": [
     "file/Enchantment Outlines.zip",
     "file/Icon Fresh 1.2.zip",
@@ -17,20 +17,146 @@
     "file/FA+Quivers-v2.2.zip",
     "file/FA+Player-v1.1.zip",
     "file/FA+Emissive-v1.6.zip",
-    "file/§2Drodi's Villagers FA [V2.8].zip",
-    "file/§9Drodi's Illagers x FA [v5.2].zip",
-    "file/§4Drodi's Blazes FA [V1.2].zip",
-    "file/§4Drodi's Slimes FA [V1.1].zip",
+    "file/\u00A72Drodi's Villagers FA [V2.8].zip",
+    "file/\u00A79Drodi's Illagers x FA [v5.2].zip",
+    "file/\u00A74Drodi's Blazes FA [V1.2].zip",
+    "file/\u00A74Drodi's Slimes FA [V1.1].zip",
     "file/Fresh Patch - Variants and Ventures.zip",
     "file/Fresh Patch 2.0 - Boy Why You So Ears.zip",
-    "file/§6Immersive§8_§6Interfaces§8.zip",
-    "file/§6Immersive_Interfaces_Farmersdelight1.20-26.x.zip",
-    "file/§6Immersive§8_§6Interfaces§8_§6Curios_1.20-26.x.zip",
-    "file/§6Immersive§8_§6Interfaces§8_§6EasyMagic.zip",
-    "file/§6Immersive§8_§6Interfaces§8_§6TravelerBackpack.zip",
-    "file/§6Immersive§8_§6Interfaces§8_§6EMI§8.zip",
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78.zip",
+    "file/\u00A76Immersive_Interfaces_Farmersdelight1.20-26.x.zip",
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78_\u00A76Curios_1.20-26.x.zip",
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78_\u00A76EasyMagic.zip",
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78_\u00A76TravelerBackpack.zip",
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78_\u00A76EMI\u00A78.zip",
     "file/EatAnimation Farmer's Delight's Compat 1.20-26.x.zip",
     "file/cubic-sun-moon-v1.8.5.zip",
     "file/Fast Better Grass.zip"
-  ]
+  ],
+  "pack_overrides": {
+    "file/Enchantment Outlines.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/Icon Fresh 1.2.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/Re-covered.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/Shinier Tools.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/SodiumTranslations.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/enchant icons 1.21 v1.3.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/flowering-crops-1-21.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FreshAnimations_v1.10.4.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FA+Classic_Horses-v1.5.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FA+Details-v2.2.1.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FA+All_Extensions-v1.8.1.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FA+Creepers-v2.1.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FA+Spiders-v2.2.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FA+Quivers-v2.2.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FA+Player-v1.1.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/FA+Emissive-v1.6.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A72Drodi's Villagers FA [V2.8].zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A79Drodi's Illagers x FA [v5.2].zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A74Drodi's Blazes FA [V1.2].zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A74Drodi's Slimes FA [V1.1].zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/Fresh Patch - Variants and Ventures.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/Fresh Patch 2.0 - Boy Why You So Ears.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A76Immersive_Interfaces_Farmersdelight1.20-26.x.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78_\u00A76Curios_1.20-26.x.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78_\u00A76EasyMagic.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78_\u00A76TravelerBackpack.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78_\u00A76EMI\u00A78.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/EatAnimation Farmer's Delight's Compat 1.20-26.x.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/cubic-sun-moon-v1.8.5.zip": {
+      "required": true,
+      "fixed_position": true
+    },
+    "file/Fast Better Grass.zip": {
+      "required": true,
+      "fixed_position": true
+    }
+  }
 }

@@ -91,5 +91,7 @@
   "minecraft:zombie_villager": null,
   "securitycraft:block_info": null,
   "securitycraft:entity_info": null,
+  "tombstone:decorative_graves": null,
+  "tombstone:player_graves": null,
   "waystones:waystone": null
 }

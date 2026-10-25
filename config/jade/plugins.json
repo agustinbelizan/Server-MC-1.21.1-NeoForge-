@@ -59,6 +59,10 @@
     "entity": true,
     "entity_variant": true
   },
+  "tombstone": {
+    "decorative_graves": true,
+    "player_graves": true
+  },
   "bf_blockpack": {
     "fill": true,
     "lantern": true
@@ -99,9 +103,6 @@
   },
   "waystones": {
     "waystone": true
-  },
-  "gravestone": {
-    "grave": true
   },
   "item_descriptions": {
     "block_descriptions": true,

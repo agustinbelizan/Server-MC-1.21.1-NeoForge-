@@ -2,11 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "8a0b57162f32859a53bea36f6bbc714697687a7ccb26ccd413a6ecee1f3e6ec9"
+hash = "1862f20fdd11b5f48a15609c11f0a3aa249bf8b7657abfa284dd5d276387013e"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/accessories.json5"
+hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
+
+[[files]]
+file = "config/accessories_compat.json5"
+hash = "f121e63f366d1aaa0f2a7bbe030d9f9e5473aeaa72eb2898493fd0292703f233"
 
 [[files]]
 file = "config/advancementplaques.toml"
@@ -698,7 +706,7 @@ hash = "c4deb20003f4c45e4e14cd0da4012261ecf2229b35a21ae30c1966b36e43ad08"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
-hash = "22d6678a60c101e625f1eeea6179f08e9063bf4b0523372482956d0c283c5964"
+hash = "ee32faf303d3beaff76ee54091bc95788048046b6e948ea7795d1eb34f365607"
 
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
@@ -798,7 +806,7 @@ hash = "a0867628abd6f9e052a618e61cab635a2fc04f8b2cbf93419857ba8ecec21e25"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "1f5a2dc829e680b3bfc209c7c17593e7ef800366d85aba62fb133fa3405d3fe1"
+hash = "26dd0ae745789e14bd301904cb884abd279effb1a5ad1254ed869570cd602f03"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -889,6 +897,10 @@ file = "config/immersive_pillagers.json"
 hash = "845bd89998d299149792394daf32aaeec9356b1397bd20a08492d1c6de13d5e4"
 
 [[files]]
+file = "config/immersivelanterns-client.toml"
+hash = "2ab383821f5a58649a0fceefcc5127dbd19b8917077bf833c0e4cb1f9edd49f7"
+
+[[files]]
 file = "config/immersiveoverlays.json"
 hash = "ed6da6027ad1cb9420ad5ca46653b3549dd6df16dbc25f5f374e836d4461910d"
 
@@ -910,7 +922,7 @@ hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "config/inventoryprofilesnext/181.97.249.170/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+hash = "124bdf33c80283d5327d5d47bb58d39e81d0b80e0910e5c66e5cf55abc416a0b"
 
 [[files]]
 file = "config/inventoryprofilesnext/Mundo de Pruebitas de Mods/prev-villager-trading-config-v2.json"
@@ -950,7 +962,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "95d852f268e56405091be60b2ca394c7956b73db8402d193ce24c27f49f34917"
+hash = "3c76d75f3e814b25b00e711f4062b4cc5e96e0fd6dd7064ac5c6e4b140248bfd"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -974,11 +986,11 @@ hash = "90440c1e96b6e947068a3f326f2cd923f3cfdf38dc63fc3176ba8f9dc2c5754d"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "b24140eb3503ebcf884bd54080a45cd4cbc4841f4346adef01360f5963dc6299"
+hash = "ff6556f78e9733cdc3f3e425b086759d3006f30530ec0a3c7cde0e2bb43bb5a1"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "f37b288f2064d391c1df82a1ae78270c3f07231c1d1255e74d0a97c2b4f75a09"
+hash = "6c5198abc8601f0e9498cd2ddbd9d267fd0e6d9605b25926963631fc14b6b688"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -1051,6 +1063,10 @@ hash = "43e35f01fceb40ba4689584c447ae842edf22fe86131f30f5108aae55b1b5ca6"
 [[files]]
 file = "config/losttrinkets-common.toml"
 hash = "1bac2e11328730d14fe45f3bbc55a189440f5e330a73d22927ce98fa17a74886"
+
+[[files]]
+file = "config/mc2_interactivefoliage.json"
+hash = "c7be9ae5c53e220649f7ddbcbbd8eaf8be86c2624239c86c0a93ea91e218cda9"
 
 [[files]]
 file = "config/mca.json"
@@ -1189,6 +1205,10 @@ file = "config/physics-iteam-drop.json"
 hash = "047e23e59c90abfc6c0354d0f7281c35b2a5afb5e048e97066df0842650ca381"
 
 [[files]]
+file = "config/pitg-common.toml"
+hash = "5ed9c81203880169f7e263295b85645c3b1e69fee415deb14c61ea4616e97ac8"
+
+[[files]]
 file = "config/playerrevive-client.json"
 hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
 
@@ -1242,7 +1262,7 @@ hash = "40904e834993b3969e356650747d1d22f6a3b8ce9d1a38ea069c19f26d1bede7"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "6e69fd5640c5811f603ffbef411cc2a4c9115d0d65e4e0a2af482a4f70fe5eb3"
+hash = "b68109026a2540648b58c9462fa4f870f32b70839b8a5e40eb7f9c17ddb6245f"
 
 [[files]]
 file = "config/rightclickharvest.json5"
@@ -1278,7 +1298,7 @@ hash = "3bc7c384f456a62d04bdc52c86ff1ddb1bf9874c18a8ac0d5e414ec4d1590fce"
 
 [[files]]
 file = "config/shouldersurfing-client.toml"
-hash = "c1f09a771243a708f0ca0c0d5c12e37cd08a9dd6b27721dd19340c3529242323"
+hash = "ef4871fb7f9c12693f66ac580db32af787b07d027a24f25dc9ff4297c4ba70b7"
 
 [[files]]
 file = "config/sit-server.toml"
@@ -1299,6 +1319,14 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 [[files]]
 file = "config/sodium-options.json"
 hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "5b36aeb152da44539b205ccf3e87f0edf46079f7be97aa677bf53c2f370d62d9"
+
+[[files]]
+file = "config/soulgravestone-server.toml"
+hash = "7fa7702d597a39ade98571aae8b03a8ed3b1426ba4b867accb886aa0679aa777"
 
 [[files]]
 file = "config/stoneworks-common.toml"
@@ -1345,6 +1373,10 @@ file = "config/subtle_effects/items.toml"
 hash = "20fb36eebeb21c9c94746da542234dda7af5d438dcecd1957b32d925d02b622e"
 
 [[files]]
+file = "config/sway.json"
+hash = "2341f44a0ffb1b08e9029163acfa666b2d15c3b5070d54ef910d20c136ece786"
+
+[[files]]
 file = "config/tabtweaks.json"
 hash = "4f7a0ce9a9950808a23e6680e4269f3dbce4589686fe25d3e7764ba4abcc7808"
 
@@ -1379,6 +1411,62 @@ hash = "0c86d196efa1306eea31dc6312c372e70697963841c1c71368546eede6e50e44"
 [[files]]
 file = "config/the_bumblezone/worldgen.toml"
 hash = "89eca1f77a70114ff7012ddfaac4329cdfbe31224ed52f0664c49b662e2c9182"
+
+[[files]]
+file = "config/tombstone-client.toml"
+hash = "f9552fe6281765455c9ad689be8cf75f63c495829b4e45fa2d778b6b160371b0"
+
+[[files]]
+file = "config/tombstone-common.toml"
+hash = "c18468da00ba9177f1e9b303fd7abc51746568219d768af0135dc252eb92939b"
+
+[[files]]
+file = "config/tombstone-server.toml"
+hash = "c3b886d463c52aea5dddf278435270bcc817a91c15c1435daf9b4814e0b500e2"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-abandoned_grave.json"
+hash = "ef13b6c06376cdeced96a66005b9df33baf304ba3cf5c6bc25abc5a5a9631ae0"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-archaeology.json"
+hash = "5e4a9d4f0c7a23c0f53b03787bb72a24e3cdf46986821826a7ec36cbe2628b17"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-cat_morning.json"
+hash = "e1d2a8abbc4844994f632e32087e50eff38e9811433df18e504cc6f6d9679fa4"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-chest_treasure.json"
+hash = "b995aea4eec3ea13ad1652ea3fe5b6106e66faa5a9267ca8a9cf50d59c47c560"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-lost_treasure.json"
+hash = "90e92fdb2592438409baf4ee6b177a35e4bf85b06458adc50c53acb2dd8f3185"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-seeker_rod.json"
+hash = "9a4ea792b6befda58cf505456b140494cc8682e2e0d607e0be440fb274d5bba0"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-sniffer_digging.json"
+hash = "f8c3b3bdff731ceb4409f34002e05f596853e83403bb49d5b70d803c0d2a2804"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-undead_boss.json"
+hash = "a54e32b9b8219e080e159dd991c434803ac3dc2a0058a7c77f180cae04ce09a9"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-pool-undead_mob.json"
+hash = "3a4897fa8f813051ab2262bd366402b90fb5d8490ce6628b50e2407d34c185b2"
+
+[[files]]
+file = "config/tombstone/loottables/tombstone-table-chest_treasure.json"
+hash = "8e9596e519e4e15fff3b91596d0f59aa958a60425a7b266653006bf7c0342576"
+
+[[files]]
+file = "config/tombstone/version.info"
+hash = "3b41fa7923a23457556a4b3fb21c9ca31210200090c9a67532fe704284cdbedb"
 
 [[files]]
 file = "config/transition.json"
@@ -2002,7 +2090,7 @@ hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "69b64ada87ab87b51a721fc1643e4250affecb764c183e102afd64cd052ec96d"
+hash = "3291db3403ed9e0fe24000804e22270d32f25771122c33b74e8436e4bab7949e"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -2027,22 +2115,6 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 [[files]]
 file = "config/yigd.json"
 hash = "7c24ba2917d6b644669392943d4f531c176fb998c7c02b805b2cd32cf13f4bbd"
-
-[[files]]
-file = "datapacks/MuteRemaginedCrafting.zip"
-hash = "db31cd79059350df7b87ed0ed0510a3a8a3731a3cead55fe323c6c6857c4238b"
-
-[[files]]
-file = "datapacks/SpawnPrincipal.zip"
-hash = "d664167958e57e8902f7754a2c9dada89299ef9570da4952fcbe3fa95c9b2da0"
-
-[[files]]
-file = "datapacks/WaystoneModified.zip"
-hash = "7302415168d9df09ec98f31083e3b07bc7f5c3661a233df93194f19caaca8f50"
-
-[[files]]
-file = "datapacks/Welcome.zip"
-hash = "6709a78af9346d252b3451cfb1a948361a609e5cb9c53dbb082d704f2d994503"
 
 [[files]]
 file = "emotes/Apologize on your knees.emotecraft"
