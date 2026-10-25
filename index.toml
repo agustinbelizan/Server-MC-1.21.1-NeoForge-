@@ -2137,6 +2137,11 @@ file = "emotes/become helicopter.emotecraft"
 hash = "b389681f27ad3fb98c7851389e2e5c03db0341a62d1f72a1074cb907cd420e49"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "b77da93300cfb9a239aa33ad731f9672ae3c74d3218aa149df89449962cb8594"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
 metafile = true
@@ -2914,6 +2919,11 @@ metafile = true
 [[files]]
 file = "mods/olympus-mythology.pw.toml"
 hash = "7611d9501188ec56d36bec90c7c9cf405e01bc4d2c241c00914687d726c51296"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "6514f98b34602b789fc2dbcafe7a67468d1c94d74965a0142a79b7ab23628a9a"
 metafile = true
 
 [[files]]
